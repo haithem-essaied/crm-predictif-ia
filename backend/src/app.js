@@ -3,6 +3,7 @@ import pool from "./config/db.js";
 import authRoutes from "./routes/authRoutes.js";
 import authMiddleware from "./middleware/authMiddleware.js";
 import roleMiddleware from "./middleware/roleMiddleware.js";
+import leadRoutes from "./routes/leadRoutes.js";
 
 const app = express();
 app.use(express.json());
@@ -30,6 +31,8 @@ app.get("/protected", authMiddleware, (req, res) => {
     user: req.user,
   });
 });
+
+app.use("/api/leads", leadRoutes);
 
 app.get(
   "/admin",
