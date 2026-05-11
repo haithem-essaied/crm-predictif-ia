@@ -1,0 +1,101 @@
+first_name,last_name,email,phone,company,job_title,source,status
+Haithem,Belkadhi,haithem.belkadhi0@pfe-project.tn,+21660164263,Global Corp,CTO,LinkedIn,active
+Sarra,Hammami,sarra.hammami1@pfe-project.tn,+21657600727,Sierra Bravo,Product Owner,Cold Call,converted
+Mehdi,Gharbi,mehdi.gharbi2@pfe-project.tn,+21650922244,Sierra Bravo,CEO,Referral,converted
+Yassine,Kallel,yassine.kallel3@pfe-project.tn,+21660147462,Smart Solutions,CEO,Cold Call,converted
+Omar,Ben Ali,omar.ben ali4@pfe-project.tn,+21620715256,Tunisie Industrie,CEO,Web,lost
+Fatma,Zahra,fatma.zahra5@pfe-project.tn,+21644676726,Smart Solutions,CEO,Web,lost
+Omar,Gharbi,omar.gharbi6@pfe-project.tn,+21683651577,Smart Solutions,Marketing Manager,Web,new
+Zied,Mansour,zied.mansour7@pfe-project.tn,+21640832720,Tunisie Industrie,Product Owner,Web,new
+Amine,Kallel,amine.kallel8@pfe-project.tn,+21676330892,Smart Solutions,CTO,Cold Call,converted
+Amine,Kallel,amine.kallel9@pfe-project.tn,+21638943349,Smart Solutions,IT Specialist,Web,active
+Leila,Gharbi,leila.gharbi10@pfe-project.tn,+21677595904,Smart Solutions,Sales Director,Event,converted
+Mouna,Kallel,mouna.kallel11@pfe-project.tn,+21622888388,Smart Solutions,Marketing Manager,Referral,lost
+Yassine,Hammami,yassine.hammami12@pfe-project.tn,+21697603328,DataFlow,HR Manager,Web,lost
+Zied,Bouaziz,zied.bouaziz13@pfe-project.tn,+21664813563,Global Corp,CEO,Cold Call,active
+Fatma,Hammami,fatma.hammami14@pfe-project.tn,+21681769505,Sierra Bravo,Sales Director,Referral,new
+Ali,Bouaziz,ali.bouaziz15@pfe-project.tn,+21670724233,Cloud systems,Marketing Manager,Web,new
+Omar,Gharbi,omar.gharbi16@pfe-project.tn,+21640127472,TechSoft,IT Specialist,Referral,converted
+Mehdi,Mansour,mehdi.mansour17@pfe-project.tn,+21631761269,Sierra Bravo,Marketing Manager,Cold Call,new
+Sarra,Mansour,sarra.mansour18@pfe-project.tn,+21659129972,DataFlow,CEO,LinkedIn,converted
+Fatma,Mansour,fatma.mansour19@pfe-project.tn,+21666643955,TechSoft,CTO,Referral,converted
+Sarra,Zahra,sarra.zahra20@pfe-project.tn,+21620628914,TechSoft,CEO,Referral,converted
+Mouna,Gharbi,mouna.gharbi21@pfe-project.tn,+21676571907,Tunisie Industrie,IT Specialist,Web,active
+Mouna,Trabelsi,mouna.trabelsi22@pfe-project.tn,+21675974434,Global Corp,Sales Director,Web,active
+Amine,Essaied,amine.essaied23@pfe-project.tn,+21677830188,TechSoft,CEO,Event,converted
+Mehdi,Ben Ali,mehdi.ben ali24@pfe-project.tn,+21645110113,Smart Solutions,CEO,Cold Call,new
+Sarra,Ben Ali,sarra.ben ali25@pfe-project.tn,+21670504476,Global Corp,Product Owner,Web,active
+Yassine,Gharbi,yassine.gharbi26@pfe-project.tn,+21660337122,Sierra Bravo,IT Specialist,Referral,new
+Zied,Ben Ali,zied.ben ali27@pfe-project.tn,+21629937987,Innovate TN,Sales Director,Referral,active
+Leila,Bouaziz,leila.bouaziz28@pfe-project.tn,+21675421971,Global Corp,Product Owner,LinkedIn,converted
+Leila,Belkadhi,leila.belkadhi29@pfe-project.tn,+21636400683,Innovate TN,Marketing Manager,Event,converted
+Ines,Zahra,ines.zahra30@pfe-project.tn,+21646766488,Sierra Bravo,IT Specialist,Web,active
+Leila,Kallel,leila.kallel31@pfe-project.tn,+21669775502,Global Corp,CEO,Event,converted
+Sarra,Gharbi,sarra.gharbi32@pfe-project.tn,+21644261955,Global Corp,Product Owner,Web,new
+Zied,Ben Ali,zied.ben ali33@pfe-project.tn,+21633182134,Smart Solutions,CTO,LinkedIn,active
+Mehdi,Trabelsi,mehdi.trabelsi34@pfe-project.tn,+21667981654,Sierra Bravo,Marketing Manager,Referral,converted
+Ali,Hammami,ali.hammami35@pfe-project.tn,+21642988658,Tunisie Industrie,Marketing Manager,LinkedIn,converted
+Karim,Hammami,karim.hammami36@pfe-project.tn,+21696193688,TechSoft,CTO,Web,converted
+Sami,Hammami,sami.hammami37@pfe-project.tn,+21669207818,Cloud systems,HR Manager,Web,new
+Sami,Essaied,sami.essaied38@pfe-project.tn,+21625360663,Tunisie Industrie,Sales Director,Event,lost
+Omar,Trabelsi,omar.trabelsi39@pfe-project.tn,+21660181344,Cloud systems,CTO,Referral,lost
+Yassine,Belkadhi,yassine.belkadhi40@pfe-project.tn,+21679560949,Innovate TN,Sales Director,Event,converted
+Leila,Trabelsi,leila.trabelsi41@pfe-project.tn,+21629978891,Global Corp,CEO,LinkedIn,active
+Ines,Ben Ali,ines.ben ali42@pfe-project.tn,+21688973478,Global Corp,Product Owner,LinkedIn,new
+Leila,Hammami,leila.hammami43@pfe-project.tn,+21629482202,TechSoft,CTO,LinkedIn,converted
+Leila,Zahra,leila.zahra44@pfe-project.tn,+21630918861,Tunisie Industrie,Product Owner,Referral,converted
+Fatma,Belkadhi,fatma.belkadhi45@pfe-project.tn,+21633758523,Global Corp,Marketing Manager,Referral,active
+Mouna,Essaied,mouna.essaied46@pfe-project.tn,+21634462890,DataFlow,Marketing Manager,Web,converted
+Zied,Bouaziz,zied.bouaziz47@pfe-project.tn,+21685685427,DataFlow,CTO,Referral,lost
+Leila,Zahra,leila.zahra48@pfe-project.tn,+21686538869,TechSoft,Sales Director,Event,converted
+Sami,Trabelsi,sami.trabelsi49@pfe-project.tn,+21638398917,TechSoft,CEO,Web,new
+Omar,Gharbi,omar.gharbi50@pfe-project.tn,+21687968409,TechSoft,IT Specialist,Referral,new
+Leila,Mansour,leila.mansour51@pfe-project.tn,+21640154107,Innovate TN,HR Manager,Cold Call,converted
+Mehdi,Kallel,mehdi.kallel52@pfe-project.tn,+21632243938,Tunisie Industrie,Product Owner,LinkedIn,new
+Yassine,Kallel,yassine.kallel53@pfe-project.tn,+21633367749,Cloud systems,IT Specialist,Web,lost
+Amine,Gharbi,amine.gharbi54@pfe-project.tn,+21675152560,TechSoft,Product Owner,Event,lost
+Yassine,Mansour,yassine.mansour55@pfe-project.tn,+21667818341,Innovate TN,HR Manager,Referral,lost
+Amine,Kallel,amine.kallel56@pfe-project.tn,+21634197964,Smart Solutions,Sales Director,Cold Call,active
+Ines,Trabelsi,ines.trabelsi57@pfe-project.tn,+21628967731,TechSoft,CEO,Web,new
+Mouna,Kallel,mouna.kallel58@pfe-project.tn,+21697155508,TechSoft,Marketing Manager,Event,new
+Omar,Hammami,omar.hammami59@pfe-project.tn,+21659636856,Smart Solutions,Product Owner,Web,active
+Ines,Hammami,ines.hammami60@pfe-project.tn,+21692327150,Innovate TN,HR Manager,Referral,active
+Amine,Hammami,amine.hammami61@pfe-project.tn,+21636404452,TechSoft,IT Specialist,LinkedIn,converted
+Karim,Ben Ali,karim.ben ali62@pfe-project.tn,+21667758540,Cloud systems,IT Specialist,Web,active
+Mouna,Zahra,mouna.zahra63@pfe-project.tn,+21677941970,Tunisie Industrie,Sales Director,Referral,new
+Sarra,Zahra,sarra.zahra64@pfe-project.tn,+21671311489,Innovate TN,Product Owner,Referral,active
+Mehdi,Belkadhi,mehdi.belkadhi65@pfe-project.tn,+21663190263,Smart Solutions,CTO,Event,new
+Karim,Gharbi,karim.gharbi66@pfe-project.tn,+21658426440,TechSoft,Product Owner,Referral,new
+Sarra,Ben Ali,sarra.ben ali67@pfe-project.tn,+21664364950,Tunisie Industrie,Product Owner,Web,converted
+Mehdi,Essaied,mehdi.essaied68@pfe-project.tn,+21646918512,Tunisie Industrie,Product Owner,Event,new
+Yassine,Essaied,yassine.essaied69@pfe-project.tn,+21623183987,Smart Solutions,Sales Director,Web,active
+Ali,Gharbi,ali.gharbi70@pfe-project.tn,+21632841395,Sierra Bravo,CTO,Cold Call,new
+Sarra,Ben Ali,sarra.ben ali71@pfe-project.tn,+21644113573,Cloud systems,HR Manager,LinkedIn,lost
+Sami,Mansour,sami.mansour72@pfe-project.tn,+21667503410,DataFlow,Marketing Manager,Event,active
+Amine,Hammami,amine.hammami73@pfe-project.tn,+21663812861,Smart Solutions,IT Specialist,LinkedIn,active
+Ines,Trabelsi,ines.trabelsi74@pfe-project.tn,+21620110809,TechSoft,HR Manager,Web,new
+Fatma,Ben Ali,fatma.ben ali75@pfe-project.tn,+21623490772,Cloud systems,CTO,Web,lost
+Sarra,Trabelsi,sarra.trabelsi76@pfe-project.tn,+21646443236,Innovate TN,CEO,Web,new
+Karim,Trabelsi,karim.trabelsi77@pfe-project.tn,+21658687944,Smart Solutions,CEO,Web,active
+Fatma,Kallel,fatma.kallel78@pfe-project.tn,+21692468980,Sierra Bravo,IT Specialist,Cold Call,converted
+Sarra,Ben Ali,sarra.ben ali79@pfe-project.tn,+21676401679,Innovate TN,Sales Director,Web,lost
+Fatma,Essaied,fatma.essaied80@pfe-project.tn,+21645880573,DataFlow,IT Specialist,Event,active
+Mehdi,Essaied,mehdi.essaied81@pfe-project.tn,+21648203942,TechSoft,CEO,Web,new
+Ines,Hammami,ines.hammami82@pfe-project.tn,+21663180222,DataFlow,IT Specialist,LinkedIn,active
+Omar,Mansour,omar.mansour83@pfe-project.tn,+21664591320,Tunisie Industrie,Product Owner,Referral,new
+Amine,Mansour,amine.mansour84@pfe-project.tn,+21621511149,Cloud systems,HR Manager,Referral,lost
+Karim,Mansour,karim.mansour85@pfe-project.tn,+21696464846,Tunisie Industrie,Product Owner,Cold Call,active
+Sami,Gharbi,sami.gharbi86@pfe-project.tn,+21625826951,DataFlow,CEO,Referral,converted
+Mehdi,Essaied,mehdi.essaied87@pfe-project.tn,+21635647734,Sierra Bravo,CTO,Cold Call,lost
+Mehdi,Mansour,mehdi.mansour88@pfe-project.tn,+21693353657,DataFlow,CTO,LinkedIn,converted
+Ines,Mansour,ines.mansour89@pfe-project.tn,+21641102703,Sierra Bravo,CEO,Referral,active
+Ines,Bouaziz,ines.bouaziz90@pfe-project.tn,+21671945930,Innovate TN,CTO,Referral,converted
+Sarra,Belkadhi,sarra.belkadhi91@pfe-project.tn,+21626354351,Sierra Bravo,Product Owner,Referral,new
+Zied,Zahra,zied.zahra92@pfe-project.tn,+21663843331,TechSoft,IT Specialist,Cold Call,lost
+Zied,Kallel,zied.kallel93@pfe-project.tn,+21686791351,Cloud systems,HR Manager,LinkedIn,active
+Yassine,Hammami,yassine.hammami94@pfe-project.tn,+21686539695,Innovate TN,Product Owner,Event,new
+Sami,Trabelsi,sami.trabelsi95@pfe-project.tn,+21648402879,Smart Solutions,Marketing Manager,Web,active
+Leila,Mansour,leila.mansour96@pfe-project.tn,+21639372215,Cloud systems,Product Owner,Referral,new
+Sami,Trabelsi,sami.trabelsi97@pfe-project.tn,+21687732545,Tunisie Industrie,CEO,Referral,active
+Yassine,Zahra,yassine.zahra98@pfe-project.tn,+21638603660,Innovate TN,Sales Director,Cold Call,converted
+Amine,Trabelsi,amine.trabelsi99@pfe-project.tn,+21626904920,DataFlow,CEO,Referral,lost

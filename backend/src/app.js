@@ -4,8 +4,12 @@ import authRoutes from "./routes/authRoutes.js";
 import authMiddleware from "./middleware/authMiddleware.js";
 import roleMiddleware from "./middleware/roleMiddleware.js";
 import leadRoutes from "./routes/leadRoutes.js";
+import cors from "cors";
+import importRoutes from "./routes/importRoutes.js";
 
 const app = express();
+
+app.use(cors());
 app.use(express.json());
 
 // Test DB
@@ -58,6 +62,9 @@ app.get(
     res.json({ message: "Marketing access ✅" });
   }
 );
+
+app.use("/api/import", importRoutes);
+
 app.listen(3000, () => {
   console.log("Server running on port 3000");
 });
