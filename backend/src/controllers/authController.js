@@ -21,7 +21,7 @@ export const register = async (req, res) => {
       user: result.rows[0],
     });
   } catch (err) {
-    res.status(500).json({ error: err.message });
+    res.status(500).json({ error: "Erreur interne du serveur" });
   }
 };
 
@@ -36,22 +36,27 @@ export const login = async (req, res) => {
     );
 
     if (result.rows.length === 0) {
-      return res.status(400).json({ error: "User not found" });
+      return res.status(401).json({ error: "Invalid credentials" });
     }
 
     const user = result.rows[0];
+
+    if (user.is_active === false) {
+      return res.status(401).json({ error: "Account disabled" });
+    }
 
     // compare password
     const isMatch = await bcrypt.compare(password, user.password_hash);
 
     if (!isMatch) {
-      return res.status(400).json({ error: "Wrong password" });
+      return res.status(401).json({ error: "Invalid credentials" });
     }
 
-    // generate token
+    // generate token — include name & email so the UI can display the
+    // logged-in user (the topbar decodes these straight from the JWT).
     const token = jwt.sign(
-      { id: user.id, role: user.role },
-      "secretkey",
+      { id: user.id, role: user.role, name: user.name, email: user.email },
+      process.env.JWT_SECRET,
       { expiresIn: "1d" }
     );
 
@@ -60,6 +65,6 @@ export const login = async (req, res) => {
       token,
     });
   } catch (err) {
-    res.status(500).json({ error: err.message });
+    res.status(500).json({ error: "Erreur interne du serveur" });
   }
 };

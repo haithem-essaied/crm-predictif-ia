@@ -1,0 +1,451 @@
+first_name,last_name,email,phone,company,job_title,source,status,assigned_to_email,created_at
+Iheb,Sassi,iheb.sassi1@prospects.tn,+21674672173,TechNova,Operations Manager,LinkedIn,converted,haithemessaied@test.com,2026-04-14T00:00:00Z
+Hatem,Hamdi,hatem.hamdi2@prospects.tn,+21610458697,NextGen Solutions,IT Manager,Referral,converted,mohamed@test.com,2026-01-11T00:00:00Z
+Karim,Mejri,karim.mejri3@prospects.tn,+21666092381,TechNova,Marketing Manager,Cold Call,new,test@test.com,2026-05-26T00:00:00Z
+Iheb,Hachicha,iheb.hachicha4@prospects.tn,+21664260771,Oryx Digital,Marketing Manager,LinkedIn,active,haithemessaied@test.com,2026-04-22T00:00:00Z
+Rania,Rekik,rania.rekik5@prospects.tn,+21672380131,NextGen Solutions,CTO,Cold Call,new,mohamed@test.com,2026-05-21T00:00:00Z
+Iheb,Hamdi,iheb.hamdi6@prospects.tn,+21608549238,LogiTrans,Procurement Lead,Event,new,test@test.com,2026-05-17T00:00:00Z
+Bilel,Hamdi,bilel.hamdi7@prospects.tn,+21664141603,Sahara Systems,CEO,Web,active,haithemessaied@test.com,2026-04-03T00:00:00Z
+Emna,Khelifi,emna.khelifi8@prospects.tn,+21691011652,FinTrust,Product Owner,Cold Call,converted,mohamed@test.com,2026-01-30T00:00:00Z
+Bassem,Feki,bassem.feki9@prospects.tn,+21606044438,Medina Soft,Sales Director,Referral,converted,test@test.com,2026-03-13T00:00:00Z
+Bilel,Mejri,bilel.mejri10@prospects.tn,+21642635395,SmartGrid,Operations Manager,Referral,active,haithemessaied@test.com,2026-04-09T00:00:00Z
+Ghada,Karoui,ghada.karoui11@prospects.tn,+21633710029,BlueWave,Operations Manager,Web,active,mohamed@test.com,2026-04-09T00:00:00Z
+Mariem,Tlili,mariem.tlili12@prospects.tn,+21617672544,LogiTrans,CFO,Event,lost,test@test.com,2026-03-06T00:00:00Z
+Mariem,Cherif,mariem.cherif13@prospects.tn,+21607620251,Oryx Digital,Operations Manager,Event,active,haithemessaied@test.com,2026-02-27T00:00:00Z
+Yosr,Limam,yosr.limam14@prospects.tn,+21654587602,BlueWave,CFO,Event,active,mohamed@test.com,2026-04-12T00:00:00Z
+Skander,Sfar,skander.sfar15@prospects.tn,+21685433945,TechNova,Founder,Cold Call,active,test@test.com,2026-02-21T00:00:00Z
+Takwa,Nasri,takwa.nasri16@prospects.tn,+21625395882,AgriTech Plus,Procurement Lead,Referral,active,haithemessaied@test.com,2026-03-16T00:00:00Z
+Maha,Feki,maha.feki17@prospects.tn,+21637398923,LogiTrans,Procurement Lead,Web,new,mohamed@test.com,2026-05-20T00:00:00Z
+Chedi,Ferchichi,chedi.ferchichi18@prospects.tn,+21631809018,CloudReef,CTO,Cold Call,new,test@test.com,2026-05-19T00:00:00Z
+Skander,Feki,skander.feki19@prospects.tn,+21606997406,LogiTrans,CTO,Cold Call,active,haithemessaied@test.com,2026-05-12T00:00:00Z
+Nidhal,Oueslati,nidhal.oueslati20@prospects.tn,+21668425099,ByteForge,Procurement Lead,Referral,active,mohamed@test.com,2026-03-19T00:00:00Z
+Ghada,Khelifi,ghada.khelifi21@prospects.tn,+21603193427,HealthSync,IT Manager,Referral,lost,test@test.com,2026-01-07T00:00:00Z
+Wassim,Zouari,wassim.zouari22@prospects.tn,+21640726638,Carthage IT,IT Manager,Web,converted,haithemessaied@test.com,2026-01-24T00:00:00Z
+Chaima,Feki,chaima.feki23@prospects.tn,+21602998026,TechNova,CEO,Referral,active,mohamed@test.com,2026-02-23T00:00:00Z
+Donia,Oueslati,donia.oueslati24@prospects.tn,+21618137502,CloudReef,Procurement Lead,Referral,converted,test@test.com,2026-01-24T00:00:00Z
+Zied,Guesmi,zied.guesmi25@prospects.tn,+21626539546,DataPulse,CTO,Event,converted,haithemessaied@test.com,2026-04-28T00:00:00Z
+Rim,Mabrouk,rim.mabrouk26@prospects.tn,+21683758898,Sahara Systems,Founder,Web,new,mohamed@test.com,2026-06-01T00:00:00Z
+Lina,Rekik,lina.rekik27@prospects.tn,+21633085416,TechNova,CTO,Event,active,test@test.com,2026-02-16T00:00:00Z
+Nour,Daldoul,nour.daldoul28@prospects.tn,+21642646035,TechNova,Marketing Manager,Referral,active,haithemessaied@test.com,2026-05-02T00:00:00Z
+Wassim,Chaabane,wassim.chaabane29@prospects.tn,+21691946341,Oryx Digital,CFO,LinkedIn,lost,mohamed@test.com,2025-12-14T00:00:00Z
+Hela,Tlili,hela.tlili30@prospects.tn,+21627065173,LogiTrans,Sales Director,LinkedIn,converted,test@test.com,2026-01-31T00:00:00Z
+Zied,Baccouche,zied.baccouche31@prospects.tn,+21694889060,FinTrust,Operations Manager,Event,converted,haithemessaied@test.com,2026-03-03T00:00:00Z
+Khalil,Daldoul,khalil.daldoul32@prospects.tn,+21631294210,LogiTrans,CTO,Referral,converted,mohamed@test.com,2026-03-21T00:00:00Z
+Fares,Daldoul,fares.daldoul33@prospects.tn,+21698812685,DataPulse,Founder,Event,converted,test@test.com,2026-02-28T00:00:00Z
+Sabri,Larbi,sabri.larbi34@prospects.tn,+21657512304,AgriTech Plus,CFO,Referral,converted,haithemessaied@test.com,2026-01-20T00:00:00Z
+Amani,Ferchichi,amani.ferchichi35@prospects.tn,+21658174668,DataPulse,Operations Manager,Web,lost,mohamed@test.com,2026-03-16T00:00:00Z
+Rim,Oueslati,rim.oueslati36@prospects.tn,+21628062744,Medina Soft,Procurement Lead,LinkedIn,lost,test@test.com,2026-03-18T00:00:00Z
+Khalil,Jelassi,khalil.jelassi37@prospects.tn,+21630636463,TechNova,IT Manager,Event,active,haithemessaied@test.com,2026-03-08T00:00:00Z
+Fares,Hachicha,fares.hachicha38@prospects.tn,+21614340133,ByteForge,Marketing Manager,Web,active,mohamed@test.com,2026-05-12T00:00:00Z
+Karim,Jelassi,karim.jelassi39@prospects.tn,+21629724354,Carthage IT,Sales Director,Cold Call,lost,test@test.com,2025-12-25T00:00:00Z
+Iheb,Nasri,iheb.nasri40@prospects.tn,+21613045185,Sahara Systems,Sales Director,LinkedIn,active,haithemessaied@test.com,2026-03-04T00:00:00Z
+Bilel,Chaouch,bilel.chaouch41@prospects.tn,+21629486200,Medina Soft,Procurement Lead,Cold Call,active,mohamed@test.com,2026-02-25T00:00:00Z
+Maha,Naffati,maha.naffati42@prospects.tn,+21609849989,FinTrust,IT Manager,LinkedIn,converted,test@test.com,2026-04-18T00:00:00Z
+Hela,Ghali,hela.ghali43@prospects.tn,+21653164007,AgriTech Plus,Operations Manager,Referral,converted,haithemessaied@test.com,2026-01-25T00:00:00Z
+Hatem,Nasri,hatem.nasri44@prospects.tn,+21677604977,Sahara Systems,Marketing Manager,Web,new,mohamed@test.com,2026-05-17T00:00:00Z
+Seif,Baccouche,seif.baccouche45@prospects.tn,+21666816091,TechNova,Operations Manager,Referral,active,test@test.com,2026-04-25T00:00:00Z
+Nidhal,Feki,nidhal.feki46@prospects.tn,+21637766612,Carthage IT,Product Owner,LinkedIn,new,haithemessaied@test.com,2026-05-25T00:00:00Z
+Nour,Chaouch,nour.chaouch47@prospects.tn,+21639721639,LogiTrans,IT Manager,LinkedIn,active,mohamed@test.com,2026-04-06T00:00:00Z
+Rania,Cherif,rania.cherif48@prospects.tn,+21660471705,HealthSync,Sales Director,LinkedIn,lost,test@test.com,2025-11-12T00:00:00Z
+Rim,Baccouche,rim.baccouche49@prospects.tn,+21672207627,LogiTrans,CEO,Event,converted,haithemessaied@test.com,2026-02-12T00:00:00Z
+Nidhal,Oueslati,nidhal.oueslati50@prospects.tn,+21677571888,Carthage IT,IT Manager,Web,new,mohamed@test.com,2026-05-30T00:00:00Z
+Takwa,Zouari,takwa.zouari51@prospects.tn,+21623264169,HealthSync,Product Owner,Cold Call,lost,test@test.com,2026-01-09T00:00:00Z
+Wassim,Ghali,wassim.ghali52@prospects.tn,+21621176454,Carthage IT,Marketing Manager,Cold Call,converted,haithemessaied@test.com,2026-02-17T00:00:00Z
+Yosr,Sassi,yosr.sassi53@prospects.tn,+21687503099,DataPulse,Operations Manager,Web,new,mohamed@test.com,2026-05-23T00:00:00Z
+Iheb,Ghali,iheb.ghali54@prospects.tn,+21689366563,CloudReef,Founder,Cold Call,new,test@test.com,2026-05-23T00:00:00Z
+Ines,Mabrouk,ines.mabrouk55@prospects.tn,+21679474324,CloudReef,Product Owner,LinkedIn,converted,haithemessaied@test.com,2026-01-20T00:00:00Z
+Bassem,Hamdi,bassem.hamdi56@prospects.tn,+21634137483,FinTrust,Sales Director,Event,converted,mohamed@test.com,2026-01-26T00:00:00Z
+Nour,Limam,nour.limam57@prospects.tn,+21632463384,AgriTech Plus,Operations Manager,Referral,active,test@test.com,2026-04-16T00:00:00Z
+Donia,Chaouch,donia.chaouch58@prospects.tn,+21689958080,TechNova,Procurement Lead,LinkedIn,new,haithemessaied@test.com,2026-05-30T00:00:00Z
+Dorra,Baccouche,dorra.baccouche59@prospects.tn,+21605052908,BlueWave,Procurement Lead,Cold Call,lost,mohamed@test.com,2025-11-23T00:00:00Z
+Jihen,Naffati,jihen.naffati60@prospects.tn,+21623709426,ByteForge,CTO,Cold Call,lost,test@test.com,2026-02-06T00:00:00Z
+Rim,Cherif,rim.cherif61@prospects.tn,+21670863998,HealthSync,CEO,LinkedIn,converted,haithemessaied@test.com,2026-02-14T00:00:00Z
+Zied,Sassi,zied.sassi62@prospects.tn,+21674253153,AgriTech Plus,CFO,Referral,active,mohamed@test.com,2026-02-24T00:00:00Z
+Sirine,Yahyaoui,sirine.yahyaoui63@prospects.tn,+21623099951,Oryx Digital,Sales Director,LinkedIn,new,test@test.com,2026-05-23T00:00:00Z
+Jihen,Aouadi,jihen.aouadi64@prospects.tn,+21622739746,Medina Soft,CTO,LinkedIn,new,haithemessaied@test.com,2026-05-30T00:00:00Z
+Maha,Zouari,maha.zouari65@prospects.tn,+21686536641,Oryx Digital,IT Manager,Referral,active,mohamed@test.com,2026-03-22T00:00:00Z
+Hamza,Sassi,hamza.sassi66@prospects.tn,+21642687446,NextGen Solutions,Product Owner,Cold Call,lost,test@test.com,2025-11-29T00:00:00Z
+Maha,Baccouche,maha.baccouche67@prospects.tn,+21659840978,Sahara Systems,CTO,Web,active,haithemessaied@test.com,2026-03-03T00:00:00Z
+Aymen,Gabsi,aymen.gabsi68@prospects.tn,+21643755301,Oryx Digital,CTO,Web,lost,mohamed@test.com,2025-10-30T00:00:00Z
+Aymen,Baccouche,aymen.baccouche69@prospects.tn,+21607400703,DataPulse,Sales Director,LinkedIn,active,test@test.com,2026-04-02T00:00:00Z
+Walid,Karoui,walid.karoui70@prospects.tn,+21637278018,CloudReef,IT Manager,Web,lost,haithemessaied@test.com,2025-12-02T00:00:00Z
+Nidhal,Chaabane,nidhal.chaabane71@prospects.tn,+21685656538,Sahara Systems,Sales Director,Referral,active,mohamed@test.com,2026-04-13T00:00:00Z
+Jihen,Daldoul,jihen.daldoul72@prospects.tn,+21655445991,CloudReef,Operations Manager,LinkedIn,converted,test@test.com,2026-03-18T00:00:00Z
+Donia,Sfar,donia.sfar73@prospects.tn,+21657455259,Carthage IT,CEO,Cold Call,converted,haithemessaied@test.com,2026-04-15T00:00:00Z
+Jihen,Hachicha,jihen.hachicha74@prospects.tn,+21663077476,HealthSync,IT Manager,Cold Call,active,mohamed@test.com,2026-02-25T00:00:00Z
+Wassim,Zouari,wassim.zouari75@prospects.tn,+21618787068,TechNova,CTO,LinkedIn,active,test@test.com,2026-03-07T00:00:00Z
+Nour,Baccouche,nour.baccouche76@prospects.tn,+21655403186,Medina Soft,CTO,Web,lost,haithemessaied@test.com,2026-03-08T00:00:00Z
+Ghada,Brahmi,ghada.brahmi77@prospects.tn,+21681771915,TechNova,CFO,LinkedIn,active,mohamed@test.com,2026-04-06T00:00:00Z
+Firas,Naffati,firas.naffati78@prospects.tn,+21666768635,Carthage IT,Marketing Manager,Cold Call,new,test@test.com,2026-05-18T00:00:00Z
+Rania,Chaouch,rania.chaouch79@prospects.tn,+21659991853,BlueWave,Sales Director,Cold Call,new,haithemessaied@test.com,2026-05-16T00:00:00Z
+Bilel,Issaoui,bilel.issaoui80@prospects.tn,+21620075654,FinTrust,Procurement Lead,Web,lost,mohamed@test.com,2026-03-10T00:00:00Z
+Takwa,Mejri,takwa.mejri81@prospects.tn,+21652853686,DataPulse,Product Owner,Cold Call,lost,test@test.com,2026-01-07T00:00:00Z
+Khalil,Chaabane,khalil.chaabane82@prospects.tn,+21663771771,SmartGrid,Founder,Event,active,haithemessaied@test.com,2026-03-19T00:00:00Z
+Karim,Oueslati,karim.oueslati83@prospects.tn,+21657250824,Oryx Digital,Sales Director,LinkedIn,new,mohamed@test.com,2026-06-01T00:00:00Z
+Chaima,Chaabane,chaima.chaabane84@prospects.tn,+21691899042,LogiTrans,Product Owner,Referral,active,test@test.com,2026-03-13T00:00:00Z
+Donia,Dridi,donia.dridi85@prospects.tn,+21690687152,Medina Soft,CEO,Event,converted,haithemessaied@test.com,2026-02-14T00:00:00Z
+Zied,Yahyaoui,zied.yahyaoui86@prospects.tn,+21629171143,DataPulse,Founder,Referral,active,mohamed@test.com,2026-03-20T00:00:00Z
+Chaima,Mejri,chaima.mejri87@prospects.tn,+21628009419,LogiTrans,IT Manager,Web,new,test@test.com,2026-05-17T00:00:00Z
+Chedi,Ayari,chedi.ayari88@prospects.tn,+21694743439,ByteForge,Product Owner,Cold Call,active,haithemessaied@test.com,2026-05-10T00:00:00Z
+Bassem,Hachicha,bassem.hachicha89@prospects.tn,+21631328709,Carthage IT,IT Manager,Event,new,mohamed@test.com,2026-05-19T00:00:00Z
+Bassem,Jelassi,bassem.jelassi90@prospects.tn,+21658690795,Sahara Systems,Marketing Manager,Event,converted,test@test.com,2026-04-14T00:00:00Z
+Seif,Jelassi,seif.jelassi91@prospects.tn,+21672107587,Sahara Systems,CEO,LinkedIn,active,haithemessaied@test.com,2026-03-29T00:00:00Z
+Sabri,Larbi,sabri.larbi92@prospects.tn,+21602103798,Medina Soft,Procurement Lead,Referral,new,mohamed@test.com,2026-05-28T00:00:00Z
+Sabri,Brahmi,sabri.brahmi93@prospects.tn,+21613758056,Medina Soft,CEO,Cold Call,new,test@test.com,2026-06-02T00:00:00Z
+Sirine,Baccouche,sirine.baccouche94@prospects.tn,+21601208334,BlueWave,Product Owner,Web,active,haithemessaied@test.com,2026-04-21T00:00:00Z
+Bassem,Feki,bassem.feki95@prospects.tn,+21620359695,NextGen Solutions,Operations Manager,LinkedIn,converted,mohamed@test.com,2026-03-15T00:00:00Z
+Lina,Rekik,lina.rekik96@prospects.tn,+21666438604,ByteForge,IT Manager,Web,new,test@test.com,2026-05-23T00:00:00Z
+Maha,Yahyaoui,maha.yahyaoui97@prospects.tn,+21660494453,TechNova,Founder,Cold Call,lost,haithemessaied@test.com,2026-01-18T00:00:00Z
+Dorra,Naffati,dorra.naffati98@prospects.tn,+21603134396,NextGen Solutions,IT Manager,Cold Call,active,mohamed@test.com,2026-05-12T00:00:00Z
+Anis,Baccouche,anis.baccouche99@prospects.tn,+21666028396,Oryx Digital,Procurement Lead,Event,converted,test@test.com,2026-01-10T00:00:00Z
+Rim,Dridi,rim.dridi100@prospects.tn,+21688810128,AgriTech Plus,Sales Director,Referral,active,haithemessaied@test.com,2026-03-13T00:00:00Z
+Hatem,Hamdi,hatem.hamdi101@prospects.tn,+21648193989,CloudReef,IT Manager,LinkedIn,active,mohamed@test.com,2026-03-10T00:00:00Z
+Mariem,Haddad,mariem.haddad102@prospects.tn,+21614444057,TechNova,IT Manager,Cold Call,converted,test@test.com,2026-03-05T00:00:00Z
+Bilel,Issaoui,bilel.issaoui103@prospects.tn,+21617736765,TechNova,CTO,Cold Call,lost,haithemessaied@test.com,2025-11-18T00:00:00Z
+Bilel,Cherif,bilel.cherif104@prospects.tn,+21643541663,BlueWave,CTO,Referral,converted,mohamed@test.com,2026-02-07T00:00:00Z
+Ghada,Oueslati,ghada.oueslati105@prospects.tn,+21649208883,BlueWave,IT Manager,Referral,converted,test@test.com,2026-02-13T00:00:00Z
+Fares,Dridi,fares.dridi106@prospects.tn,+21688784484,DataPulse,Product Owner,Referral,active,haithemessaied@test.com,2026-02-27T00:00:00Z
+Rania,Baccouche,rania.baccouche107@prospects.tn,+21663859061,LogiTrans,Operations Manager,Cold Call,active,mohamed@test.com,2026-04-02T00:00:00Z
+Yassine,Gabsi,yassine.gabsi108@prospects.tn,+21693024564,BlueWave,IT Manager,Cold Call,converted,test@test.com,2026-04-10T00:00:00Z
+Rim,Daldoul,rim.daldoul109@prospects.tn,+21661816638,Oryx Digital,CFO,LinkedIn,active,haithemessaied@test.com,2026-02-06T00:00:00Z
+Hamza,Larbi,hamza.larbi110@prospects.tn,+21662369695,FinTrust,IT Manager,Cold Call,lost,mohamed@test.com,2026-02-04T00:00:00Z
+Seif,Hachicha,seif.hachicha111@prospects.tn,+21647828850,CloudReef,CEO,Web,active,test@test.com,2026-02-20T00:00:00Z
+Wassim,Cherif,wassim.cherif112@prospects.tn,+21639935026,AgriTech Plus,Operations Manager,Event,converted,haithemessaied@test.com,2026-01-08T00:00:00Z
+Hamza,Oueslati,hamza.oueslati113@prospects.tn,+21652371130,HealthSync,CFO,Event,converted,mohamed@test.com,2026-04-20T00:00:00Z
+Zied,Hamdi,zied.hamdi114@prospects.tn,+21627057554,ByteForge,Marketing Manager,Referral,active,test@test.com,2026-05-02T00:00:00Z
+Hela,Riahi,hela.riahi115@prospects.tn,+21631070708,SmartGrid,Founder,Web,active,haithemessaied@test.com,2026-04-06T00:00:00Z
+Bassem,Larbi,bassem.larbi116@prospects.tn,+21665128117,LogiTrans,CEO,Event,new,mohamed@test.com,2026-05-22T00:00:00Z
+Ghada,Karoui,ghada.karoui117@prospects.tn,+21643161693,Medina Soft,IT Manager,Referral,converted,test@test.com,2026-02-03T00:00:00Z
+Donia,Feki,donia.feki118@prospects.tn,+21632772453,Carthage IT,CEO,Referral,converted,haithemessaied@test.com,2026-03-07T00:00:00Z
+Aymen,Rekik,aymen.rekik119@prospects.tn,+21655335802,HealthSync,Marketing Manager,Referral,converted,mohamed@test.com,2026-01-20T00:00:00Z
+Seif,Haddad,seif.haddad120@prospects.tn,+21658119549,BlueWave,CEO,Referral,active,test@test.com,2026-04-29T00:00:00Z
+Donia,Jaziri,donia.jaziri121@prospects.tn,+21665305287,Oryx Digital,IT Manager,Event,active,haithemessaied@test.com,2026-02-06T00:00:00Z
+Anis,Hachicha,anis.hachicha122@prospects.tn,+21653284145,ByteForge,Founder,Cold Call,new,mohamed@test.com,2026-05-19T00:00:00Z
+Hela,Larbi,hela.larbi123@prospects.tn,+21674352337,FinTrust,Sales Director,Web,new,test@test.com,2026-05-22T00:00:00Z
+Dorra,Haddad,dorra.haddad124@prospects.tn,+21600194020,TechNova,Procurement Lead,Cold Call,new,haithemessaied@test.com,2026-05-23T00:00:00Z
+Aymen,Sfar,aymen.sfar125@prospects.tn,+21698642682,TechNova,CFO,Event,new,mohamed@test.com,2026-05-16T00:00:00Z
+Rania,Jaziri,rania.jaziri126@prospects.tn,+21697335570,DataPulse,Founder,Referral,active,test@test.com,2026-04-26T00:00:00Z
+Nidhal,Issaoui,nidhal.issaoui127@prospects.tn,+21642372784,SmartGrid,Founder,Referral,converted,haithemessaied@test.com,2026-01-16T00:00:00Z
+Aymen,Riahi,aymen.riahi128@prospects.tn,+21603874153,TechNova,CEO,LinkedIn,new,mohamed@test.com,2026-05-20T00:00:00Z
+Takwa,Baccouche,takwa.baccouche129@prospects.tn,+21634273821,CloudReef,CFO,Cold Call,lost,test@test.com,2025-10-22T00:00:00Z
+Hamza,Riahi,hamza.riahi130@prospects.tn,+21618740418,BlueWave,Founder,Referral,converted,haithemessaied@test.com,2026-01-17T00:00:00Z
+Walid,Hachicha,walid.hachicha131@prospects.tn,+21690336763,HealthSync,Operations Manager,Referral,new,mohamed@test.com,2026-05-23T00:00:00Z
+Firas,Larbi,firas.larbi132@prospects.tn,+21610850370,ByteForge,CFO,LinkedIn,new,test@test.com,2026-05-30T00:00:00Z
+Firas,Hamdi,firas.hamdi133@prospects.tn,+21622618068,SmartGrid,Operations Manager,Cold Call,new,haithemessaied@test.com,2026-05-26T00:00:00Z
+Nidhal,Hachicha,nidhal.hachicha134@prospects.tn,+21665942034,CloudReef,Product Owner,Web,new,mohamed@test.com,2026-05-22T00:00:00Z
+Wassim,Baccouche,wassim.baccouche135@prospects.tn,+21664727757,Carthage IT,IT Manager,LinkedIn,active,test@test.com,2026-03-09T00:00:00Z
+Donia,Rekik,donia.rekik136@prospects.tn,+21681266261,TechNova,Sales Director,Web,active,haithemessaied@test.com,2026-03-25T00:00:00Z
+Dorra,Rekik,dorra.rekik137@prospects.tn,+21651823097,Oryx Digital,Operations Manager,LinkedIn,new,mohamed@test.com,2026-05-23T00:00:00Z
+Zied,Haddad,zied.haddad138@prospects.tn,+21609526188,NextGen Solutions,CTO,LinkedIn,active,test@test.com,2026-02-25T00:00:00Z
+Firas,Zouari,firas.zouari139@prospects.tn,+21603151435,BlueWave,IT Manager,Cold Call,active,haithemessaied@test.com,2026-02-08T00:00:00Z
+Hamza,Haddad,hamza.haddad140@prospects.tn,+21612230631,TechNova,CFO,Event,converted,mohamed@test.com,2026-04-28T00:00:00Z
+Skander,Mejri,skander.mejri141@prospects.tn,+21637887065,FinTrust,CTO,Event,converted,test@test.com,2026-03-08T00:00:00Z
+Ghada,Haddad,ghada.haddad142@prospects.tn,+21655655995,SmartGrid,IT Manager,Referral,converted,haithemessaied@test.com,2026-01-25T00:00:00Z
+Yassine,Gabsi,yassine.gabsi143@prospects.tn,+21610313528,DataPulse,CFO,Cold Call,active,mohamed@test.com,2026-03-04T00:00:00Z
+Donia,Hachicha,donia.hachicha144@prospects.tn,+21652073455,NextGen Solutions,Procurement Lead,LinkedIn,converted,test@test.com,2026-04-17T00:00:00Z
+Chaima,Guesmi,chaima.guesmi145@prospects.tn,+21681099880,FinTrust,CTO,Referral,active,haithemessaied@test.com,2026-02-09T00:00:00Z
+Takwa,Ghali,takwa.ghali146@prospects.tn,+21628395794,Sahara Systems,Founder,Web,lost,mohamed@test.com,2026-02-28T00:00:00Z
+Skander,Limam,skander.limam147@prospects.tn,+21633629586,HealthSync,Procurement Lead,Web,new,test@test.com,2026-05-30T00:00:00Z
+Fares,Elloumi,fares.elloumi148@prospects.tn,+21662219935,NextGen Solutions,Sales Director,Event,new,haithemessaied@test.com,2026-05-16T00:00:00Z
+Aymen,Ferchichi,aymen.ferchichi149@prospects.tn,+21665105718,CloudReef,CEO,Cold Call,lost,mohamed@test.com,2025-12-07T00:00:00Z
+Bilel,Rekik,bilel.rekik150@prospects.tn,+21665200718,Medina Soft,IT Manager,LinkedIn,converted,test@test.com,2026-02-18T00:00:00Z
+Donia,Limam,donia.limam151@prospects.tn,+21655602338,Medina Soft,Sales Director,Referral,converted,haithemessaied@test.com,2026-02-01T00:00:00Z
+Chaima,Mejri,chaima.mejri152@prospects.tn,+21637593379,Sahara Systems,Sales Director,LinkedIn,new,mohamed@test.com,2026-05-19T00:00:00Z
+Lina,Chaabane,lina.chaabane153@prospects.tn,+21690704486,Medina Soft,Marketing Manager,LinkedIn,converted,test@test.com,2026-01-11T00:00:00Z
+Firas,Tlili,firas.tlili154@prospects.tn,+21688780418,SmartGrid,Founder,Cold Call,active,haithemessaied@test.com,2026-04-05T00:00:00Z
+Ines,Hachicha,ines.hachicha155@prospects.tn,+21674882211,Medina Soft,CTO,LinkedIn,active,mohamed@test.com,2026-03-14T00:00:00Z
+Hatem,Zouari,hatem.zouari156@prospects.tn,+21676013369,AgriTech Plus,CEO,LinkedIn,active,test@test.com,2026-04-03T00:00:00Z
+Mariem,Yahyaoui,mariem.yahyaoui157@prospects.tn,+21605397018,SmartGrid,Procurement Lead,Event,active,haithemessaied@test.com,2026-03-06T00:00:00Z
+Aymen,Tlili,aymen.tlili158@prospects.tn,+21670959203,LogiTrans,Founder,Web,new,mohamed@test.com,2026-05-25T00:00:00Z
+Nidhal,Khelifi,nidhal.khelifi159@prospects.tn,+21677076222,Carthage IT,IT Manager,Cold Call,active,test@test.com,2026-05-03T00:00:00Z
+Firas,Riahi,firas.riahi160@prospects.tn,+21678664331,AgriTech Plus,Founder,Web,new,haithemessaied@test.com,2026-05-23T00:00:00Z
+Nidhal,Tlili,nidhal.tlili161@prospects.tn,+21649182319,SmartGrid,IT Manager,Referral,converted,mohamed@test.com,2026-02-08T00:00:00Z
+Khalil,Hachicha,khalil.hachicha162@prospects.tn,+21661677815,SmartGrid,Founder,Web,lost,test@test.com,2025-12-30T00:00:00Z
+Skander,Cherif,skander.cherif163@prospects.tn,+21688960115,Oryx Digital,CFO,Cold Call,lost,haithemessaied@test.com,2026-03-04T00:00:00Z
+Seif,Jaziri,seif.jaziri164@prospects.tn,+21641235078,SmartGrid,CTO,Cold Call,lost,mohamed@test.com,2025-10-22T00:00:00Z
+Fares,Riahi,fares.riahi165@prospects.tn,+21664139819,BlueWave,Sales Director,LinkedIn,active,test@test.com,2026-03-08T00:00:00Z
+Maha,Hamdi,maha.hamdi166@prospects.tn,+21616582545,SmartGrid,CEO,Event,lost,haithemessaied@test.com,2025-12-27T00:00:00Z
+Aymen,Rekik,aymen.rekik167@prospects.tn,+21608047906,AgriTech Plus,CFO,Referral,active,mohamed@test.com,2026-03-18T00:00:00Z
+Mariem,Oueslati,mariem.oueslati168@prospects.tn,+21655627041,DataPulse,Product Owner,Web,lost,test@test.com,2026-03-12T00:00:00Z
+Lina,Issaoui,lina.issaoui169@prospects.tn,+21663172150,DataPulse,Sales Director,Event,active,haithemessaied@test.com,2026-02-11T00:00:00Z
+Nidhal,Limam,nidhal.limam170@prospects.tn,+21649926325,Oryx Digital,CEO,LinkedIn,converted,mohamed@test.com,2026-03-07T00:00:00Z
+Wassim,Oueslati,wassim.oueslati171@prospects.tn,+21600968967,DataPulse,CTO,Event,active,test@test.com,2026-04-22T00:00:00Z
+Donia,Riahi,donia.riahi172@prospects.tn,+21669710524,HealthSync,Operations Manager,LinkedIn,active,haithemessaied@test.com,2026-04-19T00:00:00Z
+Firas,Ghali,firas.ghali173@prospects.tn,+21690476103,NextGen Solutions,Product Owner,Cold Call,active,mohamed@test.com,2026-03-09T00:00:00Z
+Seif,Naffati,seif.naffati174@prospects.tn,+21605358490,TechNova,IT Manager,Web,new,test@test.com,2026-05-20T00:00:00Z
+Jihen,Chaouch,jihen.chaouch175@prospects.tn,+21696260698,DataPulse,Operations Manager,Event,new,haithemessaied@test.com,2026-06-04T00:00:00Z
+Amani,Limam,amani.limam176@prospects.tn,+21695187753,DataPulse,Product Owner,LinkedIn,new,mohamed@test.com,2026-05-25T00:00:00Z
+Skander,Mejri,skander.mejri177@prospects.tn,+21610684876,NextGen Solutions,Sales Director,Cold Call,lost,test@test.com,2026-03-26T00:00:00Z
+Chedi,Jelassi,chedi.jelassi178@prospects.tn,+21667302150,SmartGrid,Founder,Referral,lost,haithemessaied@test.com,2025-11-20T00:00:00Z
+Nour,Rekik,nour.rekik179@prospects.tn,+21611894190,SmartGrid,Product Owner,LinkedIn,active,mohamed@test.com,2026-05-10T00:00:00Z
+Hatem,Yahyaoui,hatem.yahyaoui180@prospects.tn,+21624180504,NextGen Solutions,CFO,Referral,lost,test@test.com,2026-01-28T00:00:00Z
+Marwen,Dridi,marwen.dridi181@prospects.tn,+21630521447,NextGen Solutions,Product Owner,Cold Call,lost,haithemessaied@test.com,2026-01-17T00:00:00Z
+Walid,Haddad,walid.haddad182@prospects.tn,+21680849582,FinTrust,Procurement Lead,Cold Call,converted,mohamed@test.com,2026-02-22T00:00:00Z
+Firas,Gabsi,firas.gabsi183@prospects.tn,+21679126043,FinTrust,Operations Manager,Event,new,test@test.com,2026-06-04T00:00:00Z
+Chaima,Ayari,chaima.ayari184@prospects.tn,+21680830429,Carthage IT,CFO,Cold Call,converted,haithemessaied@test.com,2026-02-05T00:00:00Z
+Nour,Mabrouk,nour.mabrouk185@prospects.tn,+21685403458,Medina Soft,Founder,Event,active,mohamed@test.com,2026-04-05T00:00:00Z
+Takwa,Chaabane,takwa.chaabane186@prospects.tn,+21648562951,SmartGrid,Procurement Lead,Referral,converted,test@test.com,2026-02-06T00:00:00Z
+Karim,Haddad,karim.haddad187@prospects.tn,+21611797119,Sahara Systems,Sales Director,Cold Call,new,haithemessaied@test.com,2026-05-18T00:00:00Z
+Chaima,Jelassi,chaima.jelassi188@prospects.tn,+21676914951,TechNova,Procurement Lead,Cold Call,active,mohamed@test.com,2026-04-20T00:00:00Z
+Dorra,Karoui,dorra.karoui189@prospects.tn,+21629205460,Carthage IT,Procurement Lead,Web,lost,test@test.com,2025-10-29T00:00:00Z
+Hela,Guesmi,hela.guesmi190@prospects.tn,+21630334528,FinTrust,Procurement Lead,Cold Call,lost,haithemessaied@test.com,2025-12-08T00:00:00Z
+Karim,Riahi,karim.riahi191@prospects.tn,+21685139539,Sahara Systems,Procurement Lead,Web,new,mohamed@test.com,2026-05-22T00:00:00Z
+Iheb,Rekik,iheb.rekik192@prospects.tn,+21657711350,LogiTrans,Product Owner,Cold Call,lost,test@test.com,2025-12-11T00:00:00Z
+Nidhal,Mabrouk,nidhal.mabrouk193@prospects.tn,+21613661621,HealthSync,Marketing Manager,Web,converted,haithemessaied@test.com,2026-05-03T00:00:00Z
+Karim,Cherif,karim.cherif194@prospects.tn,+21649325957,CloudReef,CTO,Event,new,mohamed@test.com,2026-05-27T00:00:00Z
+Karim,Feki,karim.feki195@prospects.tn,+21686366058,TechNova,Sales Director,Referral,converted,test@test.com,2026-03-26T00:00:00Z
+Ines,Larbi,ines.larbi196@prospects.tn,+21647104410,BlueWave,Founder,Cold Call,lost,haithemessaied@test.com,2026-02-22T00:00:00Z
+Emna,Tlili,emna.tlili197@prospects.tn,+21677929130,LogiTrans,Product Owner,Event,active,mohamed@test.com,2026-02-20T00:00:00Z
+Ghada,Larbi,ghada.larbi198@prospects.tn,+21673549133,NextGen Solutions,Founder,LinkedIn,active,test@test.com,2026-03-13T00:00:00Z
+Rim,Ghali,rim.ghali199@prospects.tn,+21694146014,Sahara Systems,CTO,LinkedIn,new,haithemessaied@test.com,2026-05-30T00:00:00Z
+Seif,Issaoui,seif.issaoui200@prospects.tn,+21636995141,Medina Soft,Operations Manager,LinkedIn,converted,mohamed@test.com,2026-04-02T00:00:00Z
+Skander,Riahi,skander.riahi201@prospects.tn,+21674166654,LogiTrans,Sales Director,Referral,converted,test@test.com,2026-04-19T00:00:00Z
+Emna,Tlili,emna.tlili202@prospects.tn,+21615064540,Medina Soft,CFO,Web,new,haithemessaied@test.com,2026-06-01T00:00:00Z
+Skander,Aouadi,skander.aouadi203@prospects.tn,+21620942708,DataPulse,CFO,Referral,active,mohamed@test.com,2026-03-09T00:00:00Z
+Marwen,Nasri,marwen.nasri204@prospects.tn,+21664710785,NextGen Solutions,Operations Manager,LinkedIn,converted,test@test.com,2026-03-16T00:00:00Z
+Sabri,Rekik,sabri.rekik205@prospects.tn,+21618940806,LogiTrans,CTO,Cold Call,active,haithemessaied@test.com,2026-02-21T00:00:00Z
+Donia,Ghali,donia.ghali206@prospects.tn,+21634698937,LogiTrans,Product Owner,Web,active,mohamed@test.com,2026-02-16T00:00:00Z
+Chaima,Chaabane,chaima.chaabane207@prospects.tn,+21624099939,AgriTech Plus,Marketing Manager,Referral,active,test@test.com,2026-03-09T00:00:00Z
+Iheb,Khelifi,iheb.khelifi208@prospects.tn,+21607479349,DataPulse,Sales Director,Referral,new,haithemessaied@test.com,2026-05-27T00:00:00Z
+Sirine,Gabsi,sirine.gabsi209@prospects.tn,+21667614602,ByteForge,IT Manager,Event,new,mohamed@test.com,2026-05-25T00:00:00Z
+Lina,Limam,lina.limam210@prospects.tn,+21682996699,NextGen Solutions,Product Owner,LinkedIn,new,test@test.com,2026-05-23T00:00:00Z
+Nour,Karoui,nour.karoui211@prospects.tn,+21673422871,CloudReef,Procurement Lead,LinkedIn,new,haithemessaied@test.com,2026-05-27T00:00:00Z
+Nidhal,Mejri,nidhal.mejri212@prospects.tn,+21613667772,DataPulse,Founder,Web,active,mohamed@test.com,2026-05-15T00:00:00Z
+Sabri,Haddad,sabri.haddad213@prospects.tn,+21698135110,CloudReef,Operations Manager,Cold Call,lost,test@test.com,2025-11-19T00:00:00Z
+Chaima,Riahi,chaima.riahi214@prospects.tn,+21686723839,AgriTech Plus,Sales Director,Event,new,haithemessaied@test.com,2026-05-26T00:00:00Z
+Chedi,Baccouche,chedi.baccouche215@prospects.tn,+21674990374,Medina Soft,CTO,Event,converted,mohamed@test.com,2026-04-03T00:00:00Z
+Aymen,Hachicha,aymen.hachicha216@prospects.tn,+21692403291,SmartGrid,CFO,Web,active,test@test.com,2026-04-23T00:00:00Z
+Wassim,Yahyaoui,wassim.yahyaoui217@prospects.tn,+21609331980,LogiTrans,Marketing Manager,LinkedIn,active,haithemessaied@test.com,2026-05-09T00:00:00Z
+Yosr,Ferchichi,yosr.ferchichi218@prospects.tn,+21603143260,Oryx Digital,IT Manager,Event,new,mohamed@test.com,2026-05-24T00:00:00Z
+Chedi,Daldoul,chedi.daldoul219@prospects.tn,+21666795604,DataPulse,Operations Manager,LinkedIn,converted,test@test.com,2026-03-24T00:00:00Z
+Chedi,Mejri,chedi.mejri220@prospects.tn,+21637748398,NextGen Solutions,Sales Director,Web,converted,haithemessaied@test.com,2026-03-14T00:00:00Z
+Maha,Issaoui,maha.issaoui221@prospects.tn,+21628331844,Medina Soft,CFO,Event,active,mohamed@test.com,2026-04-15T00:00:00Z
+Hamza,Aouadi,hamza.aouadi222@prospects.tn,+21681664417,Medina Soft,IT Manager,LinkedIn,lost,test@test.com,2026-01-18T00:00:00Z
+Oussama,Issaoui,oussama.issaoui223@prospects.tn,+21668612798,BlueWave,IT Manager,Cold Call,new,haithemessaied@test.com,2026-05-25T00:00:00Z
+Firas,Baccouche,firas.baccouche224@prospects.tn,+21616149320,TechNova,IT Manager,Cold Call,lost,mohamed@test.com,2026-02-22T00:00:00Z
+Hamza,Mabrouk,hamza.mabrouk225@prospects.tn,+21697775888,Sahara Systems,CTO,Cold Call,converted,test@test.com,2026-03-05T00:00:00Z
+Karim,Riahi,karim.riahi226@prospects.tn,+21676690676,Carthage IT,Product Owner,Cold Call,new,haithemessaied@test.com,2026-06-03T00:00:00Z
+Aymen,Guesmi,aymen.guesmi227@prospects.tn,+21668664386,AgriTech Plus,Marketing Manager,Referral,new,mohamed@test.com,2026-05-23T00:00:00Z
+Donia,Sfar,donia.sfar228@prospects.tn,+21653360852,LogiTrans,Product Owner,Cold Call,lost,test@test.com,2026-02-01T00:00:00Z
+Dorra,Chaabane,dorra.chaabane229@prospects.tn,+21650327579,BlueWave,Founder,Event,new,haithemessaied@test.com,2026-05-21T00:00:00Z
+Zied,Elloumi,zied.elloumi230@prospects.tn,+21683078008,Medina Soft,Marketing Manager,Cold Call,active,mohamed@test.com,2026-03-03T00:00:00Z
+Seif,Chaouch,seif.chaouch231@prospects.tn,+21669741544,FinTrust,Founder,Event,new,test@test.com,2026-05-22T00:00:00Z
+Hatem,Chaabane,hatem.chaabane232@prospects.tn,+21625133201,AgriTech Plus,CFO,Cold Call,new,haithemessaied@test.com,2026-05-24T00:00:00Z
+Mariem,Tlili,mariem.tlili233@prospects.tn,+21697476754,Medina Soft,Operations Manager,LinkedIn,converted,mohamed@test.com,2026-02-23T00:00:00Z
+Yassine,Sassi,yassine.sassi234@prospects.tn,+21691072784,AgriTech Plus,Founder,Event,new,test@test.com,2026-06-01T00:00:00Z
+Bilel,Zouari,bilel.zouari235@prospects.tn,+21648321011,ByteForge,CTO,Web,lost,haithemessaied@test.com,2025-12-06T00:00:00Z
+Karim,Cherif,karim.cherif236@prospects.tn,+21617201829,HealthSync,CTO,Web,lost,mohamed@test.com,2025-10-21T00:00:00Z
+Rania,Chaouch,rania.chaouch237@prospects.tn,+21631044442,HealthSync,CEO,LinkedIn,converted,test@test.com,2026-03-02T00:00:00Z
+Sabri,Selmi,sabri.selmi238@prospects.tn,+21663293919,Sahara Systems,Operations Manager,Web,active,haithemessaied@test.com,2026-04-12T00:00:00Z
+Maha,Jaziri,maha.jaziri239@prospects.tn,+21602930637,NextGen Solutions,Operations Manager,Referral,active,mohamed@test.com,2026-04-18T00:00:00Z
+Bilel,Feki,bilel.feki240@prospects.tn,+21668046683,LogiTrans,Procurement Lead,Referral,active,test@test.com,2026-02-27T00:00:00Z
+Karim,Zouari,karim.zouari241@prospects.tn,+21660485632,DataPulse,Operations Manager,Web,lost,haithemessaied@test.com,2026-01-07T00:00:00Z
+Sirine,Selmi,sirine.selmi242@prospects.tn,+21665000380,CloudReef,CEO,Event,converted,mohamed@test.com,2026-01-29T00:00:00Z
+Marwen,Brahmi,marwen.brahmi243@prospects.tn,+21650715624,FinTrust,CFO,Cold Call,new,test@test.com,2026-06-01T00:00:00Z
+Dorra,Ferchichi,dorra.ferchichi244@prospects.tn,+21649738713,SmartGrid,Product Owner,Referral,active,haithemessaied@test.com,2026-04-07T00:00:00Z
+Walid,Tlili,walid.tlili245@prospects.tn,+21614702022,Sahara Systems,Marketing Manager,LinkedIn,converted,mohamed@test.com,2026-03-14T00:00:00Z
+Bilel,Jelassi,bilel.jelassi246@prospects.tn,+21606371932,AgriTech Plus,IT Manager,Cold Call,lost,test@test.com,2026-01-19T00:00:00Z
+Aymen,Riahi,aymen.riahi247@prospects.tn,+21618115634,BlueWave,Marketing Manager,Web,active,haithemessaied@test.com,2026-02-14T00:00:00Z
+Karim,Daldoul,karim.daldoul248@prospects.tn,+21635175494,Sahara Systems,Procurement Lead,Cold Call,lost,mohamed@test.com,2025-12-18T00:00:00Z
+Rania,Limam,rania.limam249@prospects.tn,+21643182072,Carthage IT,IT Manager,Web,lost,test@test.com,2026-01-31T00:00:00Z
+Takwa,Hamdi,takwa.hamdi250@prospects.tn,+21642092550,ByteForge,Marketing Manager,Web,lost,haithemessaied@test.com,2026-03-21T00:00:00Z
+Chaima,Khelifi,chaima.khelifi251@prospects.tn,+21636277816,CloudReef,Founder,Event,lost,mohamed@test.com,2025-11-08T00:00:00Z
+Seif,Jaziri,seif.jaziri252@prospects.tn,+21657132745,AgriTech Plus,Founder,Cold Call,new,test@test.com,2026-05-20T00:00:00Z
+Marwen,Riahi,marwen.riahi253@prospects.tn,+21644801837,Medina Soft,IT Manager,Referral,active,haithemessaied@test.com,2026-02-07T00:00:00Z
+Hela,Aouadi,hela.aouadi254@prospects.tn,+21611548015,TechNova,CFO,Referral,lost,mohamed@test.com,2025-11-11T00:00:00Z
+Wassim,Larbi,wassim.larbi255@prospects.tn,+21660051841,DataPulse,Sales Director,Event,active,test@test.com,2026-04-17T00:00:00Z
+Firas,Sfar,firas.sfar256@prospects.tn,+21677268128,FinTrust,Procurement Lead,Cold Call,new,haithemessaied@test.com,2026-05-21T00:00:00Z
+Karim,Rekik,karim.rekik257@prospects.tn,+21660799471,SmartGrid,CTO,Web,new,mohamed@test.com,2026-05-18T00:00:00Z
+Nidhal,Hamdi,nidhal.hamdi258@prospects.tn,+21683019374,DataPulse,CTO,Referral,converted,test@test.com,2026-03-24T00:00:00Z
+Jihen,Selmi,jihen.selmi259@prospects.tn,+21620626886,FinTrust,CTO,Cold Call,active,haithemessaied@test.com,2026-04-01T00:00:00Z
+Rania,Ghali,rania.ghali260@prospects.tn,+21610008609,DataPulse,Sales Director,Cold Call,converted,mohamed@test.com,2026-01-10T00:00:00Z
+Lina,Yahyaoui,lina.yahyaoui261@prospects.tn,+21600945757,TechNova,Marketing Manager,Web,converted,test@test.com,2026-01-18T00:00:00Z
+Donia,Cherif,donia.cherif262@prospects.tn,+21663340801,BlueWave,Sales Director,Event,lost,haithemessaied@test.com,2026-01-23T00:00:00Z
+Ines,Mejri,ines.mejri263@prospects.tn,+21657254411,Oryx Digital,Sales Director,Event,new,mohamed@test.com,2026-05-30T00:00:00Z
+Maha,Karoui,maha.karoui264@prospects.tn,+21609314577,LogiTrans,Operations Manager,Web,converted,test@test.com,2026-04-02T00:00:00Z
+Fares,Chaouch,fares.chaouch265@prospects.tn,+21640935142,HealthSync,IT Manager,Referral,lost,haithemessaied@test.com,2026-01-08T00:00:00Z
+Dorra,Hamdi,dorra.hamdi266@prospects.tn,+21624937061,Sahara Systems,Operations Manager,LinkedIn,active,mohamed@test.com,2026-03-23T00:00:00Z
+Marwen,Riahi,marwen.riahi267@prospects.tn,+21623963348,FinTrust,CTO,LinkedIn,converted,test@test.com,2026-04-15T00:00:00Z
+Maha,Brahmi,maha.brahmi268@prospects.tn,+21600100247,TechNova,CEO,Referral,active,haithemessaied@test.com,2026-02-24T00:00:00Z
+Dorra,Dridi,dorra.dridi269@prospects.tn,+21614678168,ByteForge,Marketing Manager,Referral,active,mohamed@test.com,2026-04-04T00:00:00Z
+Khalil,Baccouche,khalil.baccouche270@prospects.tn,+21636788770,Medina Soft,CTO,Referral,new,test@test.com,2026-06-01T00:00:00Z
+Firas,Brahmi,firas.brahmi271@prospects.tn,+21609332769,BlueWave,CTO,LinkedIn,new,haithemessaied@test.com,2026-05-22T00:00:00Z
+Fares,Gabsi,fares.gabsi272@prospects.tn,+21682100797,DataPulse,CFO,LinkedIn,converted,mohamed@test.com,2026-01-17T00:00:00Z
+Nour,Chaouch,nour.chaouch273@prospects.tn,+21690817892,FinTrust,CEO,LinkedIn,new,test@test.com,2026-05-26T00:00:00Z
+Hela,Tlili,hela.tlili274@prospects.tn,+21610344330,FinTrust,Product Owner,Referral,active,haithemessaied@test.com,2026-02-21T00:00:00Z
+Khalil,Haddad,khalil.haddad275@prospects.tn,+21609109659,BlueWave,Procurement Lead,LinkedIn,converted,mohamed@test.com,2026-01-08T00:00:00Z
+Lina,Hamdi,lina.hamdi276@prospects.tn,+21672137854,FinTrust,CEO,Cold Call,new,test@test.com,2026-05-20T00:00:00Z
+Hamza,Selmi,hamza.selmi277@prospects.tn,+21605602701,ByteForge,IT Manager,Event,new,haithemessaied@test.com,2026-05-25T00:00:00Z
+Zied,Elloumi,zied.elloumi278@prospects.tn,+21665660018,NextGen Solutions,Sales Director,Referral,converted,mohamed@test.com,2026-01-10T00:00:00Z
+Khalil,Guesmi,khalil.guesmi279@prospects.tn,+21607961368,Sahara Systems,Sales Director,Cold Call,active,test@test.com,2026-03-09T00:00:00Z
+Lina,Dridi,lina.dridi280@prospects.tn,+21641051137,TechNova,IT Manager,Cold Call,lost,haithemessaied@test.com,2025-11-11T00:00:00Z
+Khalil,Elloumi,khalil.elloumi281@prospects.tn,+21660378602,DataPulse,Sales Director,Cold Call,lost,mohamed@test.com,2026-01-28T00:00:00Z
+Skander,Jaziri,skander.jaziri282@prospects.tn,+21657459864,Sahara Systems,Marketing Manager,Web,new,test@test.com,2026-05-22T00:00:00Z
+Maha,Haddad,maha.haddad283@prospects.tn,+21679131304,CloudReef,IT Manager,Web,active,haithemessaied@test.com,2026-02-19T00:00:00Z
+Skander,Karoui,skander.karoui284@prospects.tn,+21651141623,ByteForge,IT Manager,Referral,converted,mohamed@test.com,2026-04-26T00:00:00Z
+Fares,Ferchichi,fares.ferchichi285@prospects.tn,+21671306084,Sahara Systems,CEO,Cold Call,new,test@test.com,2026-06-01T00:00:00Z
+Takwa,Chaabane,takwa.chaabane286@prospects.tn,+21692817875,CloudReef,Marketing Manager,Event,converted,haithemessaied@test.com,2026-01-16T00:00:00Z
+Dorra,Tlili,dorra.tlili287@prospects.tn,+21639728106,SmartGrid,Marketing Manager,Referral,new,mohamed@test.com,2026-06-01T00:00:00Z
+Anis,Gabsi,anis.gabsi288@prospects.tn,+21638756225,DataPulse,CTO,LinkedIn,new,test@test.com,2026-05-31T00:00:00Z
+Seif,Karoui,seif.karoui289@prospects.tn,+21690537927,TechNova,Sales Director,LinkedIn,converted,haithemessaied@test.com,2026-04-12T00:00:00Z
+Fares,Limam,fares.limam290@prospects.tn,+21620550955,FinTrust,Founder,Web,lost,mohamed@test.com,2025-10-23T00:00:00Z
+Takwa,Gabsi,takwa.gabsi291@prospects.tn,+21625269218,TechNova,Marketing Manager,Event,converted,test@test.com,2026-04-21T00:00:00Z
+Skander,Jelassi,skander.jelassi292@prospects.tn,+21601136002,HealthSync,Procurement Lead,Web,active,haithemessaied@test.com,2026-02-23T00:00:00Z
+Firas,Karoui,firas.karoui293@prospects.tn,+21678834252,Carthage IT,CTO,Web,lost,mohamed@test.com,2026-02-20T00:00:00Z
+Chedi,Brahmi,chedi.brahmi294@prospects.tn,+21618402233,ByteForge,Marketing Manager,Event,lost,test@test.com,2025-11-08T00:00:00Z
+Chaima,Mejri,chaima.mejri295@prospects.tn,+21615561638,SmartGrid,CTO,Web,lost,haithemessaied@test.com,2026-03-16T00:00:00Z
+Jihen,Guesmi,jihen.guesmi296@prospects.tn,+21637740592,DataPulse,IT Manager,Event,lost,mohamed@test.com,2026-01-05T00:00:00Z
+Fares,Dridi,fares.dridi297@prospects.tn,+21646473862,Oryx Digital,Founder,Referral,lost,test@test.com,2026-01-05T00:00:00Z
+Iheb,Elloumi,iheb.elloumi298@prospects.tn,+21672090599,TechNova,IT Manager,LinkedIn,converted,haithemessaied@test.com,2026-02-22T00:00:00Z
+Mariem,Nasri,mariem.nasri299@prospects.tn,+21641594746,TechNova,Product Owner,LinkedIn,converted,mohamed@test.com,2026-04-17T00:00:00Z
+Hamza,Aouadi,hamza.aouadi300@prospects.tn,+21636818611,DataPulse,IT Manager,Event,new,test@test.com,2026-05-21T00:00:00Z
+Amani,Sassi,amani.sassi301@prospects.tn,+21611209129,NextGen Solutions,Product Owner,Web,active,haithemessaied@test.com,2026-04-16T00:00:00Z
+Iheb,Daldoul,iheb.daldoul302@prospects.tn,+21681535821,Medina Soft,CTO,Web,new,mohamed@test.com,2026-06-01T00:00:00Z
+Karim,Daldoul,karim.daldoul303@prospects.tn,+21665741269,TechNova,Procurement Lead,LinkedIn,active,test@test.com,2026-03-11T00:00:00Z
+Firas,Aouadi,firas.aouadi304@prospects.tn,+21672428611,Sahara Systems,Operations Manager,Web,active,haithemessaied@test.com,2026-04-24T00:00:00Z
+Jihen,Brahmi,jihen.brahmi305@prospects.tn,+21613034046,HealthSync,Operations Manager,Web,active,mohamed@test.com,2026-04-09T00:00:00Z
+Chedi,Feki,chedi.feki306@prospects.tn,+21612597087,Medina Soft,Marketing Manager,Web,converted,test@test.com,2026-04-17T00:00:00Z
+Hamza,Karoui,hamza.karoui307@prospects.tn,+21666399773,CloudReef,Operations Manager,LinkedIn,new,haithemessaied@test.com,2026-06-02T00:00:00Z
+Seif,Brahmi,seif.brahmi308@prospects.tn,+21671676221,BlueWave,CFO,Event,lost,mohamed@test.com,2026-03-18T00:00:00Z
+Yosr,Tlili,yosr.tlili309@prospects.tn,+21666443557,DataPulse,Sales Director,Referral,lost,test@test.com,2025-11-19T00:00:00Z
+Lina,Gabsi,lina.gabsi310@prospects.tn,+21653864269,LogiTrans,CTO,Event,converted,haithemessaied@test.com,2026-02-19T00:00:00Z
+Iheb,Naffati,iheb.naffati311@prospects.tn,+21600785731,Sahara Systems,Procurement Lead,LinkedIn,converted,mohamed@test.com,2026-05-06T00:00:00Z
+Seif,Guesmi,seif.guesmi312@prospects.tn,+21679037146,SmartGrid,Sales Director,LinkedIn,converted,test@test.com,2026-05-03T00:00:00Z
+Emna,Larbi,emna.larbi313@prospects.tn,+21633981015,Sahara Systems,CEO,LinkedIn,converted,haithemessaied@test.com,2026-02-08T00:00:00Z
+Marwen,Rekik,marwen.rekik314@prospects.tn,+21657379484,FinTrust,Product Owner,Referral,new,mohamed@test.com,2026-05-23T00:00:00Z
+Emna,Selmi,emna.selmi315@prospects.tn,+21605528693,TechNova,CTO,LinkedIn,new,test@test.com,2026-05-30T00:00:00Z
+Nour,Ghali,nour.ghali316@prospects.tn,+21671303478,Carthage IT,CTO,LinkedIn,converted,haithemessaied@test.com,2026-03-20T00:00:00Z
+Fares,Naffati,fares.naffati317@prospects.tn,+21626899284,HealthSync,Founder,Event,new,mohamed@test.com,2026-05-17T00:00:00Z
+Hela,Mejri,hela.mejri318@prospects.tn,+21640294698,Sahara Systems,CTO,Web,lost,test@test.com,2025-11-05T00:00:00Z
+Dorra,Oueslati,dorra.oueslati319@prospects.tn,+21619036821,CloudReef,CFO,Cold Call,active,haithemessaied@test.com,2026-02-05T00:00:00Z
+Emna,Aouadi,emna.aouadi320@prospects.tn,+21626434387,Carthage IT,IT Manager,Referral,new,mohamed@test.com,2026-05-20T00:00:00Z
+Karim,Tlili,karim.tlili321@prospects.tn,+21614110424,Carthage IT,Operations Manager,Referral,active,test@test.com,2026-03-04T00:00:00Z
+Hela,Jelassi,hela.jelassi322@prospects.tn,+21654466920,TechNova,CFO,Referral,new,haithemessaied@test.com,2026-05-16T00:00:00Z
+Emna,Feki,emna.feki323@prospects.tn,+21626731782,NextGen Solutions,Sales Director,LinkedIn,active,mohamed@test.com,2026-05-04T00:00:00Z
+Rania,Haddad,rania.haddad324@prospects.tn,+21601810431,ByteForge,CTO,LinkedIn,new,test@test.com,2026-05-25T00:00:00Z
+Wassim,Mabrouk,wassim.mabrouk325@prospects.tn,+21611037479,ByteForge,Operations Manager,Web,lost,haithemessaied@test.com,2025-11-13T00:00:00Z
+Nidhal,Jaziri,nidhal.jaziri326@prospects.tn,+21678789516,FinTrust,CEO,LinkedIn,active,mohamed@test.com,2026-04-01T00:00:00Z
+Donia,Selmi,donia.selmi327@prospects.tn,+21626834930,Carthage IT,IT Manager,Cold Call,lost,test@test.com,2025-11-13T00:00:00Z
+Jihen,Ayari,jihen.ayari328@prospects.tn,+21696632700,ByteForge,CFO,Web,lost,haithemessaied@test.com,2026-02-17T00:00:00Z
+Bassem,Sfar,bassem.sfar329@prospects.tn,+21667102915,DataPulse,Product Owner,LinkedIn,converted,mohamed@test.com,2026-01-26T00:00:00Z
+Zied,Daldoul,zied.daldoul330@prospects.tn,+21633494907,DataPulse,Sales Director,Event,active,test@test.com,2026-02-18T00:00:00Z
+Ghada,Zouari,ghada.zouari331@prospects.tn,+21685681557,FinTrust,Marketing Manager,Event,new,haithemessaied@test.com,2026-05-16T00:00:00Z
+Jihen,Chaabane,jihen.chaabane332@prospects.tn,+21621053924,CloudReef,Marketing Manager,Event,active,mohamed@test.com,2026-03-11T00:00:00Z
+Wassim,Ayari,wassim.ayari333@prospects.tn,+21635066493,CloudReef,Operations Manager,Cold Call,new,test@test.com,2026-06-01T00:00:00Z
+Mariem,Zouari,mariem.zouari334@prospects.tn,+21681769084,Medina Soft,CFO,LinkedIn,new,haithemessaied@test.com,2026-05-21T00:00:00Z
+Walid,Limam,walid.limam335@prospects.tn,+21607264632,AgriTech Plus,Marketing Manager,Web,new,mohamed@test.com,2026-06-02T00:00:00Z
+Bilel,Jelassi,bilel.jelassi336@prospects.tn,+21663951242,NextGen Solutions,Sales Director,Cold Call,new,test@test.com,2026-05-25T00:00:00Z
+Ghada,Larbi,ghada.larbi337@prospects.tn,+21683450179,BlueWave,Founder,Referral,converted,haithemessaied@test.com,2026-05-02T00:00:00Z
+Sirine,Feki,sirine.feki338@prospects.tn,+21629927089,DataPulse,Founder,Referral,converted,mohamed@test.com,2026-03-25T00:00:00Z
+Emna,Nasri,emna.nasri339@prospects.tn,+21660592005,BlueWave,IT Manager,Cold Call,active,test@test.com,2026-03-01T00:00:00Z
+Rania,Mabrouk,rania.mabrouk340@prospects.tn,+21604785088,NextGen Solutions,CEO,Web,active,haithemessaied@test.com,2026-05-05T00:00:00Z
+Bassem,Mabrouk,bassem.mabrouk341@prospects.tn,+21633582835,DataPulse,CEO,Referral,active,mohamed@test.com,2026-03-21T00:00:00Z
+Jihen,Khelifi,jihen.khelifi342@prospects.tn,+21664140238,DataPulse,CEO,Web,lost,test@test.com,2026-01-26T00:00:00Z
+Walid,Hamdi,walid.hamdi343@prospects.tn,+21683021403,Carthage IT,IT Manager,Web,active,haithemessaied@test.com,2026-03-14T00:00:00Z
+Sabri,Haddad,sabri.haddad344@prospects.tn,+21679107902,Carthage IT,Product Owner,LinkedIn,converted,mohamed@test.com,2026-03-19T00:00:00Z
+Yassine,Selmi,yassine.selmi345@prospects.tn,+21607072268,SmartGrid,Founder,Web,active,test@test.com,2026-03-03T00:00:00Z
+Wassim,Guesmi,wassim.guesmi346@prospects.tn,+21663983920,SmartGrid,CEO,Web,lost,haithemessaied@test.com,2026-03-21T00:00:00Z
+Yassine,Daldoul,yassine.daldoul347@prospects.tn,+21632807390,DataPulse,Marketing Manager,Event,new,mohamed@test.com,2026-05-17T00:00:00Z
+Rim,Elloumi,rim.elloumi348@prospects.tn,+21631593792,SmartGrid,CTO,Cold Call,lost,test@test.com,2025-11-14T00:00:00Z
+Iheb,Ghali,iheb.ghali349@prospects.tn,+21650342728,CloudReef,Founder,LinkedIn,active,haithemessaied@test.com,2026-05-06T00:00:00Z
+Ghada,Ferchichi,ghada.ferchichi350@prospects.tn,+21601055341,FinTrust,Founder,Web,lost,mohamed@test.com,2026-03-19T00:00:00Z
+Chedi,Aouadi,chedi.aouadi351@prospects.tn,+21699674777,FinTrust,CFO,Event,active,test@test.com,2026-02-11T00:00:00Z
+Oussama,Tlili,oussama.tlili352@prospects.tn,+21605559237,CloudReef,CEO,Cold Call,lost,haithemessaied@test.com,2025-11-21T00:00:00Z
+Mariem,Yahyaoui,mariem.yahyaoui353@prospects.tn,+21621248299,AgriTech Plus,CTO,Event,lost,mohamed@test.com,2026-03-02T00:00:00Z
+Sirine,Khelifi,sirine.khelifi354@prospects.tn,+21670802957,Carthage IT,Sales Director,Cold Call,new,test@test.com,2026-05-18T00:00:00Z
+Firas,Mabrouk,firas.mabrouk355@prospects.tn,+21635265773,HealthSync,CEO,Referral,converted,haithemessaied@test.com,2026-02-02T00:00:00Z
+Aymen,Larbi,aymen.larbi356@prospects.tn,+21605214235,BlueWave,IT Manager,Referral,lost,mohamed@test.com,2026-03-27T00:00:00Z
+Lina,Tlili,lina.tlili357@prospects.tn,+21624733401,HealthSync,Product Owner,Cold Call,new,test@test.com,2026-05-28T00:00:00Z
+Hatem,Dridi,hatem.dridi358@prospects.tn,+21677484422,Carthage IT,Marketing Manager,Event,converted,haithemessaied@test.com,2026-02-06T00:00:00Z
+Donia,Karoui,donia.karoui359@prospects.tn,+21658289327,TechNova,CEO,Web,new,mohamed@test.com,2026-05-30T00:00:00Z
+Hela,Chaouch,hela.chaouch360@prospects.tn,+21620660783,Oryx Digital,Sales Director,Referral,new,test@test.com,2026-06-03T00:00:00Z
+Donia,Guesmi,donia.guesmi361@prospects.tn,+21616335022,ByteForge,CFO,Referral,lost,haithemessaied@test.com,2026-03-03T00:00:00Z
+Hela,Ghali,hela.ghali362@prospects.tn,+21674507441,ByteForge,IT Manager,LinkedIn,active,mohamed@test.com,2026-02-08T00:00:00Z
+Nour,Gabsi,nour.gabsi363@prospects.tn,+21649244577,HealthSync,CTO,Cold Call,new,test@test.com,2026-05-20T00:00:00Z
+Emna,Hamdi,emna.hamdi364@prospects.tn,+21617149041,AgriTech Plus,Founder,Referral,converted,haithemessaied@test.com,2026-04-20T00:00:00Z
+Amani,Ferchichi,amani.ferchichi365@prospects.tn,+21674314907,NextGen Solutions,CTO,Event,active,mohamed@test.com,2026-04-25T00:00:00Z
+Marwen,Rekik,marwen.rekik366@prospects.tn,+21694737956,NextGen Solutions,CTO,Event,active,test@test.com,2026-04-10T00:00:00Z
+Sirine,Rekik,sirine.rekik367@prospects.tn,+21664179081,CloudReef,Operations Manager,Event,converted,haithemessaied@test.com,2026-01-23T00:00:00Z
+Karim,Rekik,karim.rekik368@prospects.tn,+21685476543,TechNova,IT Manager,Cold Call,active,mohamed@test.com,2026-02-14T00:00:00Z
+Seif,Tlili,seif.tlili369@prospects.tn,+21699502663,FinTrust,Product Owner,Referral,new,test@test.com,2026-05-25T00:00:00Z
+Chedi,Ghali,chedi.ghali370@prospects.tn,+21681781480,BlueWave,CEO,Referral,active,haithemessaied@test.com,2026-05-13T00:00:00Z
+Sirine,Karoui,sirine.karoui371@prospects.tn,+21617802335,FinTrust,CTO,Cold Call,lost,mohamed@test.com,2025-11-18T00:00:00Z
+Lina,Mejri,lina.mejri372@prospects.tn,+21659772307,NextGen Solutions,Product Owner,Cold Call,lost,test@test.com,2026-02-08T00:00:00Z
+Lina,Sfar,lina.sfar373@prospects.tn,+21624536468,TechNova,CFO,LinkedIn,converted,haithemessaied@test.com,2026-04-03T00:00:00Z
+Rim,Zouari,rim.zouari374@prospects.tn,+21613157465,FinTrust,Procurement Lead,Cold Call,lost,mohamed@test.com,2025-12-31T00:00:00Z
+Chaima,Zouari,chaima.zouari375@prospects.tn,+21639879547,Sahara Systems,Procurement Lead,Cold Call,lost,test@test.com,2025-11-24T00:00:00Z
+Ines,Ferchichi,ines.ferchichi376@prospects.tn,+21670071334,BlueWave,Sales Director,LinkedIn,active,haithemessaied@test.com,2026-02-21T00:00:00Z
+Bassem,Brahmi,bassem.brahmi377@prospects.tn,+21666968770,CloudReef,IT Manager,LinkedIn,active,mohamed@test.com,2026-03-17T00:00:00Z
+Nour,Tlili,nour.tlili378@prospects.tn,+21636423809,Oryx Digital,Sales Director,LinkedIn,new,test@test.com,2026-05-22T00:00:00Z
+Nidhal,Mejri,nidhal.mejri379@prospects.tn,+21664811560,BlueWave,Procurement Lead,Referral,converted,haithemessaied@test.com,2026-03-23T00:00:00Z
+Bilel,Selmi,bilel.selmi380@prospects.tn,+21665307200,FinTrust,Sales Director,Referral,converted,mohamed@test.com,2026-03-26T00:00:00Z
+Rim,Larbi,rim.larbi381@prospects.tn,+21677266962,Oryx Digital,Marketing Manager,Web,lost,test@test.com,2025-12-06T00:00:00Z
+Takwa,Ayari,takwa.ayari382@prospects.tn,+21602726764,Oryx Digital,CFO,LinkedIn,converted,haithemessaied@test.com,2026-02-19T00:00:00Z
+Bilel,Sfar,bilel.sfar383@prospects.tn,+21642916802,DataPulse,CFO,Referral,new,mohamed@test.com,2026-05-18T00:00:00Z
+Donia,Feki,donia.feki384@prospects.tn,+21684484912,Carthage IT,IT Manager,Cold Call,active,test@test.com,2026-03-27T00:00:00Z
+Sirine,Hamdi,sirine.hamdi385@prospects.tn,+21688138199,SmartGrid,Sales Director,Referral,new,haithemessaied@test.com,2026-05-18T00:00:00Z
+Rania,Jelassi,rania.jelassi386@prospects.tn,+21668889270,FinTrust,CEO,Cold Call,new,mohamed@test.com,2026-05-21T00:00:00Z
+Dorra,Sfar,dorra.sfar387@prospects.tn,+21687375641,CloudReef,Product Owner,Event,active,test@test.com,2026-03-27T00:00:00Z
+Wassim,Sassi,wassim.sassi388@prospects.tn,+21633291644,ByteForge,Sales Director,LinkedIn,new,haithemessaied@test.com,2026-05-28T00:00:00Z
+Jihen,Sfar,jihen.sfar389@prospects.tn,+21622851035,LogiTrans,Founder,Referral,converted,mohamed@test.com,2026-01-17T00:00:00Z
+Marwen,Ghali,marwen.ghali390@prospects.tn,+21630305578,AgriTech Plus,CEO,Cold Call,active,test@test.com,2026-02-20T00:00:00Z
+Rania,Issaoui,rania.issaoui391@prospects.tn,+21640807044,Medina Soft,Marketing Manager,Web,converted,haithemessaied@test.com,2026-01-29T00:00:00Z
+Sabri,Feki,sabri.feki392@prospects.tn,+21625349943,Carthage IT,Operations Manager,Cold Call,new,mohamed@test.com,2026-05-28T00:00:00Z
+Lina,Aouadi,lina.aouadi393@prospects.tn,+21660836811,NextGen Solutions,Marketing Manager,Referral,active,test@test.com,2026-02-08T00:00:00Z
+Yosr,Ghali,yosr.ghali394@prospects.tn,+21633744347,Oryx Digital,CEO,Event,lost,haithemessaied@test.com,2026-02-18T00:00:00Z
+Takwa,Sassi,takwa.sassi395@prospects.tn,+21627233735,NextGen Solutions,Marketing Manager,Referral,converted,mohamed@test.com,2026-01-22T00:00:00Z
+Yosr,Hachicha,yosr.hachicha396@prospects.tn,+21602572520,AgriTech Plus,CTO,Referral,active,test@test.com,2026-04-21T00:00:00Z
+Bilel,Ferchichi,bilel.ferchichi397@prospects.tn,+21643405950,Oryx Digital,CEO,Event,new,haithemessaied@test.com,2026-06-01T00:00:00Z
+Emna,Aouadi,emna.aouadi398@prospects.tn,+21697578096,NextGen Solutions,CTO,Cold Call,active,mohamed@test.com,2026-03-05T00:00:00Z
+Seif,Yahyaoui,seif.yahyaoui399@prospects.tn,+21662898751,CloudReef,Marketing Manager,Referral,active,test@test.com,2026-03-09T00:00:00Z
+Bassem,Sassi,bassem.sassi400@prospects.tn,+21619088204,NextGen Solutions,Marketing Manager,Cold Call,converted,haithemessaied@test.com,2026-04-19T00:00:00Z
+Bassem,Ghali,bassem.ghali401@prospects.tn,+21609627688,TechNova,Product Owner,Referral,active,mohamed@test.com,2026-04-07T00:00:00Z
+Walid,Yahyaoui,walid.yahyaoui402@prospects.tn,+21638089035,Carthage IT,Sales Director,Web,lost,test@test.com,2026-03-20T00:00:00Z
+Bassem,Mabrouk,bassem.mabrouk403@prospects.tn,+21691498516,BlueWave,CEO,Web,lost,haithemessaied@test.com,2026-03-04T00:00:00Z
+Donia,Ghali,donia.ghali404@prospects.tn,+21674781219,NextGen Solutions,CTO,Web,active,mohamed@test.com,2026-02-27T00:00:00Z
+Seif,Elloumi,seif.elloumi405@prospects.tn,+21671465909,Oryx Digital,CEO,Cold Call,lost,test@test.com,2025-11-15T00:00:00Z
+Anis,Guesmi,anis.guesmi406@prospects.tn,+21682304818,Sahara Systems,Procurement Lead,Referral,converted,haithemessaied@test.com,2026-02-14T00:00:00Z
+Sabri,Aouadi,sabri.aouadi407@prospects.tn,+21640509817,CloudReef,IT Manager,LinkedIn,converted,mohamed@test.com,2026-01-26T00:00:00Z
+Yosr,Larbi,yosr.larbi408@prospects.tn,+21604187892,AgriTech Plus,Sales Director,Cold Call,lost,test@test.com,2025-10-22T00:00:00Z
+Takwa,Ferchichi,takwa.ferchichi409@prospects.tn,+21675621236,Carthage IT,Product Owner,Event,active,haithemessaied@test.com,2026-03-26T00:00:00Z
+Ghada,Rekik,ghada.rekik410@prospects.tn,+21663623074,Sahara Systems,Operations Manager,Web,lost,mohamed@test.com,2026-01-16T00:00:00Z
+Sirine,Hachicha,sirine.hachicha411@prospects.tn,+21659365795,DataPulse,Marketing Manager,Referral,new,test@test.com,2026-05-23T00:00:00Z
+Mariem,Jelassi,mariem.jelassi412@prospects.tn,+21609878283,NextGen Solutions,Product Owner,Referral,converted,haithemessaied@test.com,2026-05-03T00:00:00Z
+Sabri,Chaouch,sabri.chaouch413@prospects.tn,+21688793159,FinTrust,Founder,Web,lost,mohamed@test.com,2025-12-28T00:00:00Z
+Marwen,Mejri,marwen.mejri414@prospects.tn,+21696813313,LogiTrans,Product Owner,Referral,converted,test@test.com,2026-04-25T00:00:00Z
+Fares,Oueslati,fares.oueslati415@prospects.tn,+21643925063,LogiTrans,Marketing Manager,Cold Call,lost,haithemessaied@test.com,2025-12-24T00:00:00Z
+Hamza,Mabrouk,hamza.mabrouk416@prospects.tn,+21650644915,Carthage IT,CEO,Referral,active,mohamed@test.com,2026-03-18T00:00:00Z
+Seif,Yahyaoui,seif.yahyaoui417@prospects.tn,+21607570041,NextGen Solutions,Marketing Manager,Event,new,test@test.com,2026-06-04T00:00:00Z
+Hatem,Zouari,hatem.zouari418@prospects.tn,+21695934613,DataPulse,Product Owner,Referral,active,haithemessaied@test.com,2026-05-05T00:00:00Z
+Maha,Brahmi,maha.brahmi419@prospects.tn,+21606903195,TechNova,IT Manager,Cold Call,active,mohamed@test.com,2026-03-10T00:00:00Z
+Chedi,Feki,chedi.feki420@prospects.tn,+21699165101,CloudReef,CFO,Referral,active,test@test.com,2026-05-01T00:00:00Z
+Firas,Yahyaoui,firas.yahyaoui421@prospects.tn,+21657621726,Oryx Digital,Procurement Lead,LinkedIn,lost,haithemessaied@test.com,2025-11-13T00:00:00Z
+Skander,Sassi,skander.sassi422@prospects.tn,+21634347260,LogiTrans,CEO,LinkedIn,new,mohamed@test.com,2026-05-20T00:00:00Z
+Donia,Jelassi,donia.jelassi423@prospects.tn,+21600933586,Oryx Digital,Founder,Event,new,test@test.com,2026-05-25T00:00:00Z
+Lina,Mabrouk,lina.mabrouk424@prospects.tn,+21674560391,ByteForge,CEO,Event,lost,haithemessaied@test.com,2026-01-05T00:00:00Z
+Sabri,Riahi,sabri.riahi425@prospects.tn,+21679396940,LogiTrans,Procurement Lead,LinkedIn,converted,mohamed@test.com,2026-02-08T00:00:00Z
+Firas,Gabsi,firas.gabsi426@prospects.tn,+21619412817,AgriTech Plus,CTO,LinkedIn,new,test@test.com,2026-05-20T00:00:00Z
+Yassine,Karoui,yassine.karoui427@prospects.tn,+21670018214,HealthSync,CEO,LinkedIn,converted,haithemessaied@test.com,2026-01-28T00:00:00Z
+Chedi,Hachicha,chedi.hachicha428@prospects.tn,+21608453639,NextGen Solutions,Operations Manager,Event,new,mohamed@test.com,2026-05-18T00:00:00Z
+Jihen,Sfar,jihen.sfar429@prospects.tn,+21698308147,Carthage IT,Marketing Manager,Cold Call,new,test@test.com,2026-05-30T00:00:00Z
+Zied,Limam,zied.limam430@prospects.tn,+21652759773,Medina Soft,Founder,Cold Call,active,haithemessaied@test.com,2026-04-29T00:00:00Z
+Takwa,Hachicha,takwa.hachicha431@prospects.tn,+21665813277,Medina Soft,IT Manager,Referral,converted,mohamed@test.com,2026-01-28T00:00:00Z
+Rania,Chaabane,rania.chaabane432@prospects.tn,+21690084475,LogiTrans,IT Manager,Event,converted,test@test.com,2026-02-11T00:00:00Z
+Karim,Ghali,karim.ghali433@prospects.tn,+21612594902,ByteForge,Product Owner,Referral,converted,haithemessaied@test.com,2026-01-18T00:00:00Z
+Lina,Ghali,lina.ghali434@prospects.tn,+21652007739,DataPulse,Sales Director,Referral,converted,mohamed@test.com,2026-04-28T00:00:00Z
+Wassim,Issaoui,wassim.issaoui435@prospects.tn,+21610111596,FinTrust,CTO,LinkedIn,active,test@test.com,2026-05-09T00:00:00Z
+Emna,Chaouch,emna.chaouch436@prospects.tn,+21676807707,DataPulse,IT Manager,Event,new,haithemessaied@test.com,2026-05-24T00:00:00Z
+Zied,Selmi,zied.selmi437@prospects.tn,+21633457216,Oryx Digital,Operations Manager,Event,converted,mohamed@test.com,2026-03-22T00:00:00Z
+Khalil,Haddad,khalil.haddad438@prospects.tn,+21609034229,AgriTech Plus,Marketing Manager,Cold Call,new,test@test.com,2026-05-20T00:00:00Z
+Karim,Zouari,karim.zouari439@prospects.tn,+21665533615,Medina Soft,CTO,Web,lost,haithemessaied@test.com,2026-01-07T00:00:00Z
+Iheb,Naffati,iheb.naffati440@prospects.tn,+21669969423,AgriTech Plus,IT Manager,LinkedIn,new,mohamed@test.com,2026-05-29T00:00:00Z
+Rim,Sassi,rim.sassi441@prospects.tn,+21683135499,FinTrust,Product Owner,Web,converted,test@test.com,2026-03-27T00:00:00Z
+Iheb,Mejri,iheb.mejri442@prospects.tn,+21679431439,Medina Soft,Product Owner,Web,lost,haithemessaied@test.com,2025-12-23T00:00:00Z
+Bilel,Chaabane,bilel.chaabane443@prospects.tn,+21653375663,SmartGrid,CFO,Event,converted,mohamed@test.com,2026-04-30T00:00:00Z
+Jihen,Gabsi,jihen.gabsi444@prospects.tn,+21621782060,BlueWave,Marketing Manager,Cold Call,active,test@test.com,2026-05-05T00:00:00Z
+Karim,Limam,karim.limam445@prospects.tn,+21659725512,Sahara Systems,Product Owner,Referral,active,haithemessaied@test.com,2026-04-19T00:00:00Z
+Yosr,Larbi,yosr.larbi446@prospects.tn,+21634628820,TechNova,Marketing Manager,LinkedIn,active,mohamed@test.com,2026-03-02T00:00:00Z
+Fares,Hachicha,fares.hachicha447@prospects.tn,+21602148040,AgriTech Plus,CEO,Event,lost,test@test.com,2026-02-15T00:00:00Z
+Nour,Chaabane,nour.chaabane448@prospects.tn,+21689117486,ByteForge,Product Owner,Web,converted,haithemessaied@test.com,2026-01-09T00:00:00Z
+Rania,Selmi,rania.selmi449@prospects.tn,+21690585777,FinTrust,CEO,LinkedIn,converted,mohamed@test.com,2026-01-23T00:00:00Z
+Ines,Larbi,ines.larbi450@prospects.tn,+21688955525,CloudReef,Marketing Manager,Referral,new,test@test.com,2026-05-23T00:00:00Z

@@ -1,0 +1,13 @@
+first_name,last_name,email,phone,company,job_title,source,status,assigned_to_email
+Anisdeux,Daldoul,575857854,+21610924850,LogiTrans,Marketing Manager,Web,active,mohamed@test.com
+Sabri,Baccouche,sabri.baccouche1002@novalead.tn,+21677458969,Oryx Digital,CEO,Event,converted,test@test.com
+Karim,Khelifi,karim.khelifi1003@novalead.tn,+21631181407,AgriTech Plus,Sales Director,Cold Call,converted,haithemessaied@test.com
+Khalil,Gabsi,khalil.gabsi1004@novalead.tn,+21602934998,DataPulse,CEO,LinkedIn,new,mohamed@test.com
+Marwen,Selmi,marwen.selmi1005@novalead.tn,+21654965102,ByteForge,Sales Director,Cold Call,lost,test@test.com
+Yassine,Jaziri,yassine.jaziri1006@novalead.tn,+21665081988,NextGen Solutions,Operations Manager,Referral,lost,haithemessaied@test.com
+Ghada,Jelassi,ghada.jelassi1007@novalead.tn,+21665811580,Carthage IT,CTO,Event,new,mohamed@test.com
+Dorra,Riahi,dorra.riahi1008@novalead.tn,+21670693687,CloudReef,Operations Manager,Referral,converted,test@test.com
+Aymen,Aouadi,aymen.aouadi1009@novalead.tn,+21622253995,SmartGrid,Product Owner,LinkedIn,new,haithemessaied@test.com
+Ines,Sfar,ines.sfar1010@novalead.tn,+21667524517,ByteForge,Marketing Manager,LinkedIn,active,mohamed@test.com
+Anis,Aouadi,anis.aouadi1011@novalead.tn,+21694952510,Oryx Digital,Operations Manager,Cold Call,lost,test@test.com
+Hatem,Ferchichi,hatem.ferchichi1012@novalead.tn,+21638082527,HealthSync,Procurement Lead,LinkedIn,active,haithemessaied@test.com

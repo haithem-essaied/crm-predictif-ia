@@ -1,0 +1,363 @@
+/* ── Page layout ─────────────────────────────────────────────────────────── */
+
+.pipeline-page {
+  padding: 32px;
+  background: #f0f2f5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.pipeline-state {
+  padding: 60px;
+  text-align: center;
+  color: #6b7280;
+  font-size: 16px;
+}
+.pipeline-state.error { color: #ef4444; }
+
+/* ── Header ──────────────────────────────────────────────────────────────── */
+
+.pipeline-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 28px;
+}
+
+.pipeline-title {
+  font-size: 26px;
+  font-weight: 700;
+  color: #1a1f2e;
+  margin: 0 0 4px;
+}
+
+.pipeline-subtitle {
+  font-size: 14px;
+  color: #6b7280;
+  margin: 0;
+}
+
+/* ── Buttons ─────────────────────────────────────────────────────────────── */
+
+.btn-primary {
+  background: #4f46e5;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background .15s;
+  white-space: nowrap;
+}
+.btn-primary:hover    { background: #4338ca; }
+.btn-primary:disabled { opacity: .6; cursor: not-allowed; }
+
+.btn-secondary {
+  background: #f3f4f6;
+  color: #374151;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  padding: 10px 18px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background .15s;
+}
+.btn-secondary:hover { background: #e5e7eb; }
+
+/* ── Kanban board ────────────────────────────────────────────────────────── */
+
+.kanban-board {
+  display: flex;
+  gap: 16px;
+  flex: 1;
+  overflow-x: auto;
+  padding-bottom: 16px;
+  align-items: flex-start;
+}
+
+/* ── Column ──────────────────────────────────────────────────────────────── */
+
+.kanban-col {
+  flex: 0 0 240px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 1px 4px rgba(0,0,0,.07);
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100vh - 180px);
+  overflow: hidden;
+}
+
+.kanban-col-header {
+  padding: 14px 16px 12px;
+  border-top: 3px solid #e5e7eb; /* overridden inline per stage */
+  border-bottom: 1px solid #f3f4f6;
+  flex-shrink: 0;
+}
+
+.kanban-col-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  font-weight: 700;
+  color: #1a1f2e;
+  letter-spacing: .3px;
+  text-transform: uppercase;
+}
+
+.kanban-col-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.kanban-col-count {
+  margin-left: auto;
+  background: #f3f4f6;
+  color: #6b7280;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 20px;
+}
+
+.kanban-col-total {
+  font-size: 12px;
+  font-weight: 700;
+  margin-top: 4px;
+  padding-left: 16px;
+}
+
+.kanban-col-body {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.kanban-col-empty {
+  font-size: 12px;
+  color: #9ca3af;
+  text-align: center;
+  padding: 24px 0;
+}
+
+/* ── Opportunity card ────────────────────────────────────────────────────── */
+
+.opp-card {
+  position: relative;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 12px 14px;
+  cursor: grab;
+  transition: box-shadow .15s, transform .1s;
+  user-select: none;
+}
+
+.opp-delete {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  border: none;
+  background: transparent;
+  color: #ef4444;
+  font-size: 13px;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity .15s;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+.opp-card:hover .opp-delete {
+  opacity: 1;
+}
+
+.opp-delete:hover {
+  background: #fee2e2;
+}
+
+.opp-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,.1);
+  transform: translateY(-1px);
+}
+
+.opp-card:active {
+  cursor: grabbing;
+  transform: translateY(0);
+}
+
+.opp-card-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.opp-avatar {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #6366f1, #8b5cf6);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.opp-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: #1a1f2e;
+  line-height: 1.3;
+}
+
+.opp-company {
+  font-size: 11px;
+  color: #6b7280;
+  margin-top: 1px;
+}
+
+.opp-amount {
+  font-size: 15px;
+  font-weight: 700;
+  color: #059669;
+  margin-bottom: 8px;
+}
+
+.opp-date {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  color: #9ca3af;
+}
+
+.opp-date-icon { font-size: 12px; }
+
+/* ── Drag-over visual feedback ───────────────────────────────────────────── */
+
+.kanban-col[data-drag-over="true"] .kanban-col-body {
+  background: #f5f3ff;
+  border-radius: 8px;
+}
+
+/* ── Modal ───────────────────────────────────────────────────────────────── */
+
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 16px;
+}
+
+.modal-box {
+  background: #fff;
+  border-radius: 14px;
+  padding: 28px;
+  width: 100%;
+  max-width: 440px;
+  box-shadow: 0 20px 60px rgba(0,0,0,.18);
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.modal-header h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #1a1f2e;
+  margin: 0;
+}
+
+.modal-close {
+  background: none;
+  border: none;
+  font-size: 18px;
+  color: #6b7280;
+  cursor: pointer;
+  padding: 4px;
+  line-height: 1;
+  border-radius: 4px;
+  transition: background .1s;
+}
+.modal-close:hover { background: #f3f4f6; color: #1a1f2e; }
+
+.modal-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.modal-form label {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #374151;
+}
+
+.modal-form input,
+.modal-form select {
+  padding: 10px 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #1a1f2e;
+  background: #fff;
+  transition: border-color .15s;
+  outline: none;
+}
+
+.modal-form input:focus,
+.modal-form select:focus {
+  border-color: #6366f1;
+  box-shadow: 0 0 0 3px rgba(99,102,241,.1);
+}
+
+.modal-error {
+  font-size: 13px;
+  color: #ef4444;
+  background: #fef2f2;
+  border: 1px solid #fecaca;
+  border-radius: 6px;
+  padding: 8px 12px;
+  margin: 0;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 4px;
+}
+
+/* ── Responsive ──────────────────────────────────────────────────────────── */
+
+@media (max-width: 768px) {
+  .pipeline-page { padding: 16px; }
+  .kanban-col    { flex: 0 0 200px; }
+  .pipeline-header { flex-direction: column; gap: 12px; }
+}

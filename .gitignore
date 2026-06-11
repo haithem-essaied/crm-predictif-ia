@@ -15,3 +15,16 @@ yarn-error.log*
 
 # OS
 .DS_Store
+
+# AI tooling / editor metadata
+.claude/
+
+# Python
+ml-service/venv/
+venv/
+__pycache__/
+*.pyc
+
+# Runtime artifacts
+uploads/
+logs/

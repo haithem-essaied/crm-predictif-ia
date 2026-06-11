@@ -1,0 +1,210 @@
+.dashboard {
+  padding: 32px;
+  background: #f0f2f5;
+  min-height: 100vh;
+}
+
+.dash-header { margin-bottom: 28px; }
+.dash-title  { font-size: 26px; font-weight: 700; color: #1a1f2e; margin: 0 0 4px; }
+.dash-subtitle { font-size: 14px; color: #6b7280; }
+
+.dash-state       { padding: 40px; text-align: center; color: #6b7280; font-size: 16px; }
+.dash-state.error { color: #ef4444; }
+
+/* ── KPI cards ──────────────────────────────────────────────────────────── */
+.kpi-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.kpi-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px 24px;
+  box-shadow: 0 1px 4px rgba(0,0,0,.07);
+}
+
+.kpi-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.kpi-label {
+  font-size: 12px;
+  color: #6b7280;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.kpi-dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+}
+
+.kpi-value {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 8px;
+}
+
+.kpi-footer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.kpi-sub { font-size: 12px; color: #9ca3af; }
+
+.kpi-variation {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 20px;
+}
+.kpi-variation.up   { background: #dcfce7; color: #16a34a; }
+.kpi-variation.down { background: #fee2e2; color: #dc2626; }
+
+/* ── Charts ──────────────────────────────────────────────────────────────── */
+.charts-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.chart-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px 24px;
+  box-shadow: 0 1px 4px rgba(0,0,0,.07);
+}
+
+.chart-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: #1a1f2e;
+  margin: 0 0 16px;
+}
+
+.chart-empty {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #9ca3af;
+  font-size: 14px;
+}
+
+/* ── Performance table ───────────────────────────────────────────────────── */
+.table-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 20px 24px;
+  box-shadow: 0 1px 4px rgba(0,0,0,.07);
+  margin-bottom: 16px;
+}
+
+.dash-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.dash-table th {
+  text-align: left;
+  padding: 10px 14px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: #6b7280;
+  background: #f9fafb;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.dash-table td {
+  padding: 12px 14px;
+  border-bottom: 1px solid #f9f9f9;
+  color: #374151;
+  vertical-align: middle;
+}
+
+.dash-table tr:last-child td { border-bottom: none; }
+.dash-table tr:hover td { background: #fafafa; }
+
+.perf-name  { font-weight: 600; color: #1a1f2e; font-size: 13px; }
+.perf-email { font-size: 11px; color: #9ca3af; margin-top: 2px; }
+
+.perf-badge {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 700;
+}
+.perf-badge.won  { background: #dcfce7; color: #16a34a; }
+.perf-badge.lost { background: #fee2e2; color: #dc2626; }
+
+/* Win-rate progress bar */
+.win-rate-bar-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #374151;
+}
+
+.win-rate-bar {
+  flex: 1;
+  max-width: 80px;
+  height: 6px;
+  background: #f0f0f0;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.win-rate-fill {
+  height: 100%;
+  background: #6366f1;
+  border-radius: 3px;
+  transition: width .3s ease;
+}
+
+.ca-cell      { font-weight: 600; color: #1a1f2e; }
+.ca-cell.muted { color: #9ca3af; font-weight: 400; }
+
+/* ── Status badge (reused) ───────────────────────────────────────────────── */
+.status-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* ── Score bar (top leads) ───────────────────────────────────────────────── */
+.score-bar-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.score-bar {
+  height: 6px;
+  border-radius: 3px;
+  min-width: 4px;
+  max-width: 100px;
+  flex-shrink: 0;
+}
+.score-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: #374151;
+  white-space: nowrap;
+}

@@ -1,0 +1,125 @@
+.users-page  { padding: 32px; background: #f0f2f5; min-height: 100vh; }
+.users-state { padding: 40px; text-align: center; color: #6b7280; }
+
+.users-header {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 28px;
+}
+.users-title { font-size: 26px; font-weight: 700; color: #1a1f2e; margin: 0 0 4px; }
+.users-sub   { font-size: 14px; color: #6b7280; }
+
+.btn-create {
+  padding: 10px 20px; background: #6366f1; color: #fff;
+  border: none; border-radius: 8px; font-size: 13px; font-weight: 600;
+  cursor: pointer; transition: background .2s;
+}
+.btn-create:hover { background: #4f46e5; }
+
+/* Table */
+.users-table-wrap {
+  background: #fff; border-radius: 12px;
+  box-shadow: 0 1px 4px rgba(0,0,0,.07); overflow: hidden;
+}
+.users-table { width: 100%; border-collapse: collapse; }
+.users-table thead tr { background: #f8fafc; }
+.users-table th {
+  padding: 13px 16px; text-align: left; font-size: 12px;
+  font-weight: 700; color: #6b7280; text-transform: uppercase;
+  letter-spacing: .05em; border-bottom: 1px solid #e5e7eb;
+}
+.users-table td {
+  padding: 14px 16px; font-size: 14px; color: #1a1f2e;
+  border-bottom: 1px solid #f3f4f6;
+}
+.users-table tbody tr:last-child td { border-bottom: none; }
+.users-table tbody tr:hover { background: #f9fafb; }
+.row-inactive td { opacity: .55; }
+
+.cell-name  { font-weight: 600; }
+.cell-email { color: #6b7280; }
+.cell-date  { color: #9ca3af; font-size: 13px; }
+
+/* Badges */
+.role-badge {
+  display: inline-block; padding: 3px 10px; border-radius: 20px;
+  font-size: 12px; font-weight: 600;
+}
+.role-admin     { background: #ede9fe; color: #7c3aed; }
+.role-sales     { background: #dcfce7; color: #16a34a; }
+.role-marketing { background: #fef3c7; color: #d97706; }
+
+.status-badge {
+  display: inline-block; padding: 3px 10px; border-radius: 20px;
+  font-size: 12px; font-weight: 600;
+}
+.status-active   { background: #dcfce7; color: #16a34a; }
+.status-inactive { background: #fee2e2; color: #dc2626; }
+
+/* Action buttons */
+.cell-actions { display: flex; gap: 8px; }
+.btn-edit {
+  padding: 6px 12px; background: #f1f5f9; color: #334155;
+  border: none; border-radius: 6px; font-size: 12px; font-weight: 600;
+  cursor: pointer; transition: background .2s;
+}
+.btn-edit:hover { background: #e2e8f0; }
+
+.btn-deactivate {
+  padding: 6px 12px; background: #fef2f2; color: #dc2626;
+  border: none; border-radius: 6px; font-size: 12px; font-weight: 600;
+  cursor: pointer; transition: background .2s;
+}
+.btn-deactivate:hover { background: #fee2e2; }
+
+.btn-activate {
+  padding: 6px 12px; background: #f0fdf4; color: #16a34a;
+  border: none; border-radius: 6px; font-size: 12px; font-weight: 600;
+  cursor: pointer; transition: background .2s;
+}
+.btn-activate:hover { background: #dcfce7; }
+
+/* Modal */
+.modal-overlay {
+  position: fixed; inset: 0; background: rgba(0,0,0,.45);
+  display: flex; align-items: center; justify-content: center; z-index: 1000;
+}
+.modal-box {
+  background: #fff; border-radius: 14px; padding: 32px;
+  width: 440px; max-width: 95vw;
+  box-shadow: 0 20px 60px rgba(0,0,0,.2);
+}
+.modal-title {
+  font-size: 18px; font-weight: 700; color: #1a1f2e;
+  margin: 0 0 20px;
+}
+.modal-error {
+  background: #fef2f2; border: 1px solid #fca5a5; color: #dc2626;
+  border-radius: 8px; padding: 10px 14px; font-size: 13px; margin-bottom: 16px;
+}
+.modal-label {
+  display: block; font-size: 13px; font-weight: 600;
+  color: #374151; margin-bottom: 6px;
+}
+.label-hint { font-weight: 400; color: #9ca3af; font-size: 12px; }
+.modal-input, .modal-select {
+  width: 100%; padding: 10px 12px; border: 1px solid #e5e7eb;
+  border-radius: 8px; font-size: 14px; color: #1a1f2e;
+  background: #f9fafb; margin-bottom: 16px; box-sizing: border-box;
+  outline: none; transition: border-color .2s;
+}
+.modal-input:focus, .modal-select:focus { border-color: #6366f1; background: #fff; }
+
+.modal-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 8px; }
+.btn-cancel {
+  padding: 10px 20px; background: #f1f5f9; color: #334155;
+  border: none; border-radius: 8px; font-size: 14px; font-weight: 600;
+  cursor: pointer;
+}
+.btn-cancel:hover { background: #e2e8f0; }
+.btn-save {
+  padding: 10px 20px; background: #6366f1; color: #fff;
+  border: none; border-radius: 8px; font-size: 14px; font-weight: 600;
+  cursor: pointer; transition: background .2s;
+}
+.btn-save:hover:not(:disabled) { background: #4f46e5; }
+.btn-save:disabled { opacity: .6; cursor: not-allowed; }

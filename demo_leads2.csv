@@ -1,0 +1,13 @@
+first_name,last_name,email,phone,company,job_title,source,status,assigned_to_email
+Ghada,Naffati,ghada.naffati2001@novacrm.tn,+21626892064,LogiTrans,CFO,Cold Call,lost,test@test.com
+Nour,Mabrouk,nour.mabrouk2002@novacrm.tn,+21607473635,ByteForge,Marketing Manager,Cold Call,new,haithemessaied@test.com
+Aymen,Zouari,aymen.zouari2003@novacrm.tn,+21646863766,Oryx Digital,Sales Director,Cold Call,converted,mohamed@test.com
+Firas,Riahi,firas.riahi2004@novacrm.tn,+21623941865,AgriTech Plus,Marketing Manager,Web,new,test@test.com
+Firas,Haddad,firas.haddad2005@novacrm.tn,+21660094282,HealthSync,Sales Director,LinkedIn,active,haithemessaied@test.com
+Hatem,Ayari,hatem.ayari2006@novacrm.tn,+21631517312,LogiTrans,CEO,Event,active,mohamed@test.com
+Hatem,Naffati,hatem.naffati2007@novacrm.tn,+21603047635,Oryx Digital,Founder,Referral,lost,test@test.com
+Aymen,Dridi,aymen.dridi2008@novacrm.tn,+21658429181,TechNova,Marketing Manager,Web,converted,haithemessaied@test.com
+Nidhal,Hamdi,nidhal.hamdi2009@novacrm.tn,+21602850980,SmartGrid,Marketing Manager,LinkedIn,converted,mohamed@test.com
+Maha,Rekik,maha.rekik2010@novacrm.tn,+21671622001,Oryx Digital,CFO,Web,lost,test@test.com
+Jihen,Riahi,jihen.riahi2011@novacrm.tn,+21629008240,Medina Soft,Sales Director,Cold Call,new,haithemessaied@test.com
+Amani,Yahyaoui,amani.yahyaoui2012@novacrm.tn,+21668568728,Oryx Digital,Operations Manager,Referral,active,mohamed@test.com

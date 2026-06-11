@@ -1,0 +1,118 @@
+.analytics-page {
+  padding: 32px;
+  background: #f0f2f5;
+  min-height: 100vh;
+}
+
+.an-header       { margin-bottom: 28px; }
+.an-title        { font-size: 26px; font-weight: 700; color: #1a1f2e; margin: 0 0 4px; }
+.an-sub          { font-size: 14px; color: #6b7280; }
+.an-state        { padding: 40px; text-align: center; color: #6b7280; font-size: 16px; }
+.an-state.error  { color: #ef4444; }
+.an-empty        { padding: 40px 0; text-align: center; color: #9ca3af; font-size: 14px; line-height: 2; }
+.an-hint         { font-size: 12px; color: #c4c9d4; }
+
+/* ── Cards ─────────────────────────────────────────────────────────────── */
+.an-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 22px 26px;
+  box-shadow: 0 1px 4px rgba(0,0,0,.07);
+  margin-bottom: 16px;
+}
+
+.an-card-title {
+  font-size: 14px;
+  font-weight: 700;
+  color: #1a1f2e;
+  margin: 0 0 18px;
+}
+
+/* Two-column layout for distribution + score trend */
+.an-two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+/* ── Conversion rate ────────────────────────────────────────────────────── */
+.an-conv-grid {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 24px;
+  align-items: center;
+}
+
+.conv-stat-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 180px;
+}
+
+.conv-stat-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+}
+
+.conv-stat-dot {
+  width: 10px; height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.conv-stat-source { flex: 1; color: #374151; font-weight: 500; }
+.conv-stat-nums   { color: #9ca3af; font-size: 12px; }
+.conv-stat-rate   { font-weight: 700; font-size: 13px; min-width: 36px; text-align: right; }
+
+/* ── Score distribution ─────────────────────────────────────────────────── */
+.dist-legend {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+  justify-content: center;
+}
+
+.dist-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12px;
+  color: #6b7280;
+}
+
+.dist-dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+}
+
+.dist-legend-item strong {
+  color: #1a1f2e;
+  font-size: 13px;
+}
+
+/* ── Period selector ────────────────────────────────────────────────────── */
+.period-selector {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.period-btn {
+  padding: 5px 16px;
+  border-radius: 20px;
+  border: 1px solid #e5e7eb;
+  background: #fff;
+  color: #6b7280;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all .2s;
+}
+
+.period-btn:hover  { border-color: #6366f1; color: #6366f1; }
+.period-btn.active { background: #6366f1; border-color: #6366f1; color: #fff; }

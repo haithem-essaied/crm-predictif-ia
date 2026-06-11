@@ -1,70 +1,38 @@
 import express from "express";
-import pool from "./config/db.js";
 import authRoutes from "./routes/authRoutes.js";
-import authMiddleware from "./middleware/authMiddleware.js";
-import roleMiddleware from "./middleware/roleMiddleware.js";
 import leadRoutes from "./routes/leadRoutes.js";
 import cors from "cors";
 import importRoutes from "./routes/importRoutes.js";
+import opportunityRoutes from "./routes/opportunityRoutes.js";
+import interactionRoutes from "./routes/interactionRoutes.js";
+import dashboardRoutes from "./routes/dashboardRoutes.js";
+import automationRoutes from "./routes/automationRoutes.js";
+import analyticsRoutes from "./routes/analyticsRoutes.js";
+import userRoutes from "./routes/userRoutes.js";
+import { startScheduler } from "./services/schedulerService.js";
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+  origin: [
+    process.env.FRONTEND_URL || "http://localhost:3001",
+    "http://127.0.0.1:3001",
+  ],
+}));
 app.use(express.json());
 
-// Test DB
-app.get("/test-db", async (req, res) => {
-  try {
-    const result = await pool.query("SELECT NOW()");
-    res.json({
-      message: "DB connected",
-      time: result.rows[0],
-    });
-  } catch (err) {
-    res.status(500).json({ error: err.message });
-  }
-});
-
-
-
 app.use("/api/auth", authRoutes);
-
-app.get("/protected", authMiddleware, (req, res) => {
-  res.json({
-    message: "Access granted ",
-    user: req.user,
-  });
-});
-
 app.use("/api/leads", leadRoutes);
 
-app.get(
-  "/admin",
-  authMiddleware,
-  roleMiddleware(["admin"]),
-  (req, res) => {
-    res.json({ message: "Admin access ✅" });
-  }
-);
-app.get(
-  "/sales",
-  authMiddleware,
-  roleMiddleware(["admin", "sales"]),
-  (req, res) => {
-    res.json({ message: "Sales access ✅" });
-  }
-);
-app.get(
-  "/marketing",
-  authMiddleware,
-  roleMiddleware(["admin", "marketing"]),
-  (req, res) => {
-    res.json({ message: "Marketing access ✅" });
-  }
-);
-
 app.use("/api/import", importRoutes);
+app.use("/api/opportunities", opportunityRoutes);
+app.use("/api/leads/:id/interactions", interactionRoutes);
+app.use("/api/dashboard", dashboardRoutes);
+app.use("/api/automation", automationRoutes);
+app.use("/api/analytics", analyticsRoutes);
+app.use("/api/users", userRoutes);
 
-app.listen(3000, () => {
-  console.log("Server running on port 3000");
-});
+startScheduler();
+
+// Export the app instance for testing and server initialization
+export default app;

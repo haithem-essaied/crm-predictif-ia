@@ -1,33 +1,77 @@
 import { useState } from "react";
+import { useNavigate } from "react-router-dom";
+import { getRoleHome } from "../utils/auth";
+import "./Login.css";
 
-function Login({ onLogin }) {
-  const [email, setEmail] = useState("");
+function Login() {
+  const [email, setEmail]       = useState("");
   const [password, setPassword] = useState("");
+  const [error, setError]       = useState("");
+  const navigate = useNavigate();
 
   const handleLogin = async () => {
-    const res = await fetch("http://localhost:3000/api/auth/login", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ email, password }),
-    });
+    setError("");
+    try {
+      const res = await fetch("http://localhost:3000/api/auth/login", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ email, password }),
+      });
+      const data = await res.json();
 
-    const data = await res.json();
-    console.log(data);
-
-    if (data.token) {
-      localStorage.setItem("token", data.token);
-      onLogin(); // tell App.js login succeeded
-    } else {
-      alert("Login failed: " + (data.message || "Unknown error"));
+      if (data.token) {
+        localStorage.setItem("token", data.token);
+        navigate(getRoleHome());
+      } else {
+        setError(data.message || "Email ou mot de passe incorrect");
+      }
+    } catch {
+      setError("Impossible de contacter le serveur");
     }
   };
 
+  const handleKeyDown = (e) => {
+    if (e.key === "Enter") handleLogin();
+  };
+
   return (
-    <div>
-      <h2>Login</h2>
-      <input placeholder="email" onChange={(e) => setEmail(e.target.value)} />
-      <input placeholder="password" onChange={(e) => setPassword(e.target.value)} />
-      <button onClick={handleLogin}>Login</button>
+    <div className="login-page">
+      <div className="login-card">
+        <div className="login-logo">
+          <span className="login-logo-icon">◈</span>
+          <span className="login-logo-text">CRM <span className="login-logo-ai">IA</span></span>
+        </div>
+        <h2 className="login-title">Connexion</h2>
+        <p className="login-sub">Sierra Bravo Intelligence</p>
+
+        {error && <div className="login-error">{error}</div>}
+
+        <div className="login-field">
+          <label>Email</label>
+          <input
+            type="email"
+            placeholder="votre@email.com"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            onKeyDown={handleKeyDown}
+          />
+        </div>
+
+        <div className="login-field">
+          <label>Mot de passe</label>
+          <input
+            type="password"
+            placeholder="••••••••"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            onKeyDown={handleKeyDown}
+          />
+        </div>
+
+        <button className="login-btn" onClick={handleLogin}>
+          Se connecter
+        </button>
+      </div>
     </div>
   );
 }
